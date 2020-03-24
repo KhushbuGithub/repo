@@ -1,0 +1,36 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰›Êú8æ¬àÌ÷-H¤RMAJORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç×¢ıÿÿÿÿ8»ûÍÌ÷-H¦RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹¼ß8ÓáÚÌ÷-HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ8ÓáÚÌ÷-HŸRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ8éÑÌ÷-H¥RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÁà€8ÓáÚÌ÷-H¡RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ8»ûÍÌ÷-HRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(†¸ôˆ8éÑÌ÷-H RMAJORZ
+CODE_SMELL
+Usquid:S2129"!Remove this "Integer" constructor(‰™‘à8ÓáÚÌ÷-H¢RMAJORZ
+CODE_SMELL
+Zsquid:S2114"(Remove or correct this "retainAll" call.(½±æİøÿÿÿÿ8Áâù¨ø-H§RMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ8õÏÕÌ÷-HœRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú•€Ë8æ¬àÌ÷-H£RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ8»¡ú¨ø-H¨RMAJORZ
+CODE_SMELL

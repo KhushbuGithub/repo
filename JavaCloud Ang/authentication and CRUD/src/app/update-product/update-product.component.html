@@ -1,0 +1,28 @@
+<div class="col-md-4 offset-4 card card-body mt-5">
+    <h4>Update product</h4>
+    <form #form="ngForm" (ngSubmit)="updateProductData(form)">
+        <div class="form-group">
+            <!-- <label for="_id">Enter product Name..</label> -->
+            <input type="hidden" class="form-control" name="_id" id="_id" aria-describedby="helpId"
+                placeholder="Enter product Name..." ngModel [(ngModel)]="service.selectedProduct._id">
+        </div>
+        <div class="form-group">
+            <label for="productName">Enter product Name..</label>
+            <input type="text" class="form-control" name="productName" id="productName" aria-describedby="helpId"
+                placeholder="Enter product Name..." ngModel [(ngModel)]="service.selectedProduct.productName">
+        </div>
+        <div class="form-group">
+            <label for="productCost">Enter product Cost..</label>
+            <input type="text" class="form-control" name="productCost" id="productCost" aria-describedby="helpId"
+                placeholder="Enter product Cost..." ngModel [(ngModel)]="service.selectedProduct.productCost">
+        </div>
+        <div class="form-group">
+            <label for="productImage">Enter product Image ..</label>
+            <input type="text" class="form-control" name="productImage" id="productImage" aria-describedby="helpId"
+                placeholder="Enter product Image ..." ngModel [(ngModel)]="service.selectedProduct.productImage">
+        </div>
+        <div>
+            <button type="submit" class="btn btn-outline-primary">Update</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,5 @@
+body{
+    background-image: url(./italy-2080072_1280.jpg);
+    background-size: cover;
+    backface-visibility: hidden;
+}

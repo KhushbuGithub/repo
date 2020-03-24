@@ -1,0 +1,13 @@
+<div class="form-group">
+    <label for="price">Price</label>
+    <input type="text" [(ngModel)]="price" class="form-control" name="price" id="price" placeholder="enter price">
+</div>
+
+<div class="form-group">
+    <label for="rating">Rating</label>
+    <input type="text" [(ngModel)]="rating" class="form-control" name="rating" id="rating"
+        placeholder="enter rating">
+
+</div>
+<button type="button" (click)="onAddedProduct()" class="btn btn-primary">Submit</button>
+

@@ -1,0 +1,3033 @@
+[main] INFO    - ---------doctor sign-in----------
+[main] INFO    - select options
+[main] INFO    - Press 1 to login
+[main] INFO    - Press 2 to register
+[main] INFO    - Enter doctorId 0
+[main] INFO    - Enter password null
+[main] INFO    - ---------doctor sign-in----------
+[main] INFO    - select options
+[main] INFO    - Press 1 to login
+[main] INFO    - Press 2 to register
+[main] INFO    - Enter doctorId 
+[main] INFO    - Enter password 
+[main] INFO    - ---------doctor sign-in----------
+[main] INFO    - select options
+[main] INFO    - Press 1 to login
+[main] INFO    - Press 2 to register
+[main] INFO    - Enter doctorId
+[main] INFO    - Enter password
+[main] INFO    - Enter doctorId 100
+[main] INFO    - Enter password 
+[main] INFO    - ---------doctor sign-in----------
+[main] INFO    - select options
+[main] INFO    - Press 1 to login
+[main] INFO    - Press 2 to register
+[main] INFO    - Enter doctorId
+[main] INFO    - Enter password
+[main] INFO    - Enter doctorId 100
+[main] INFO    - Enter password 
+[main] INFO    - ---------doctor sign-in----------
+[main] INFO    - select options
+[main] INFO    - Press 1 to login
+[main] INFO    - Press 2 to register
+[main] INFO    - Enter doctorId
+[main] INFO    - Enter password
+[main] INFO    - Enter doctorId 100
+[main] INFO    - Enter password  password
+[main] INFO    - ---------doctor sign-in----------
+[main] INFO    - select options
+[main] INFO    - Press 1 to login
+[main] INFO    - Press 2 to register
+[main] INFO    - Enter doctorId 100
+[main] INFO    - Enter password 
+[main] INFO    - ---------doctor sign-in----------
+[main] INFO    - select options
+[main] INFO    - Press 1 to login
+[main] INFO    - Press 2 to register
+[main] INFO    - ---------doctor sign-in----------
+[main] INFO    - select options
+[main] INFO    - Press 1 to login
+[main] INFO    - Press 2 to register
+[main] INFO    - Enter doctorId
+[main] INFO    - Enter password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - enter the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - enter the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - enter the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password  password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - enter the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - enter the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 
+[main] INFO    - 1
+[main] INFO    - Enter password
+[main] INFO    - password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - enter the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - enter the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Select options
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId 1
+[main] INFO    - Enter password password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - login successfull
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter phoneNumber
+[main] INFO    - Enter age
+[main] INFO    - Enter dob
+[main] INFO    - Enter email
+[main] INFO    - Please set paswword
+[main] INFO    - Confirm password
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter emailId
+[main] INFO    - Enter password
+[main] INFO    - Enter phno
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - 2. Sign Up
+[main] INFO    - Enter firstName
+[main] INFO    - Enter lastName
+[main] INFO    - Enter emailId
+[main] INFO    - Enter password
+[main] INFO    - Enter phno
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - login successfull
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO    - -------------Book My Doctor-------------
+[main] INFO    - Choose the options
+[main] INFO    - 1. Login
+[main] INFO    - Enter adminId
+[main] INFO    - Enter password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - Please login
+[main] INFO  Admin  -  Enter admin id 
+[main] INFO  Admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  Admin  - adding doctor
+[main] INFO  Admin  - Enter userId
+[main] INFO  Admin  - Enter userName
+[main] INFO  Admin  - Enter userContact
+[main] INFO  Admin  - Enter emailId
+[main] INFO  Admin  - Enter password
+[main] INFO  Admin  - Enter userType
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO    - adding doctor
+[main] INFO    - Enter userId
+[main] INFO    - Enter userName
+[main] INFO    - Enter userContact
+[main] INFO    - Enter emailId
+[main] INFO    - Enter password
+[main] INFO    - Enter userType
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO    - adding doctor
+[main] INFO    - Enter userId
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - adding doctor
+[main] INFO  admin  - Enter userId
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - password and userId is not valid
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - password and userId is not valid
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - password and userId is not valid
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - password and userId is not valid
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - password and userId is not valid
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - password and userId is not valid
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - password and adminId is not valid
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter admin id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding doctor
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding doctor
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - Doctor is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding doctor
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - Doctor is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding doctor
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - Doctor is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding doctor
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - Doctor is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding doctor
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - Doctor is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding doctor
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - Doctor is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Enter number of in patients
+[main] INFO  admin  - Enter number of out patients
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter adminName
+[main] INFO  admin  - Enter Role
+[main] INFO  admin  - Enter password
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter adminName
+[main] INFO  admin  - Enter Role
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - admin registered
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter adminName
+[main] INFO  admin  - Enter Role
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - admin registered
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add user
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding user
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - Doctor is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add user
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding user
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - User is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add user
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding user
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - User is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add user
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding user
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - User is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add user
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding user
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - User is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add user
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding user
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter userName
+[main] INFO  admin  - Enter userContact
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - Enter userType
+[main] INFO  admin  - User is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding Doctor
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Enter doctorName
+[main] INFO  admin  - Enter specialization
+[main] INFO  admin  - Enter yearOfExperience
+[main] INFO  admin  - Enter availabilityFromDay
+[main] INFO  admin  - Enter availabilityEndDay
+[main] INFO  admin  - Enter availabilityStartTime
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Patient
+[main] INFO  admin  - 3. View appointments
+[main] INFO  admin  - 4. View doctor info
+[main] INFO  admin  - 5. Logout
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding Doctor
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Enter doctorName
+[main] INFO  admin  - Enter specialization
+[main] INFO  admin  - Enter yearOfExperience
+[main] INFO  admin  - Enter availabilityFromDay
+[main] INFO  admin  - Enter availabilityEndDay
+[main] INFO  admin  - Enter availabilityStartTime
+[main] INFO  admin  - Enter availabilityEndTime
+[main] INFO  admin  - Enter charges
+[main] INFO  admin  - Enter ratings
+[main] INFO  admin  - User is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Doctor is deleted
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Doctor is deleted
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Doctor is deleted
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  admin  - Patient is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  admin  - Patient is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  admin  - Patient is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  admin  - Patient is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  admin  - Patient is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  admin  - Patient is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Add Patient
+[main] INFO  admin  - 4. Delete Patient
+[main] INFO  admin  - 5. View appointments
+[main] INFO  admin  - 6. View doctor info
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - Enter firstName
+[main] INFO  admin  - Enter lastName
+[main] INFO  admin  - Enter phoneNumber
+[main] INFO  admin  - Enter emailId
+[main] INFO  admin  - Enter dob
+[main] INFO  admin  - Enter age
+[main] INFO  admin  - Enter gender
+[main] INFO  admin  - Enter dateOfRegistration
+[main] INFO  admin  - Enter Address
+[main] INFO  admin  - Enter pincode
+[main] INFO  admin  - Patient is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - delete patient
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - delete patient
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - patient is deleted
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - delete patient
+[main] INFO  admin  - Enter patientId
+[main] INFO  admin  - patient is deleted
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Enter number of in patients
+[main] INFO  admin  - Enter number of out patients
+[main] INFO  admin  - Viewing appointment details
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Viewing appointment details
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Viewing appointment details
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - DoctorId is
+[main] INFO  admin  - number of in patients
+[main] INFO  admin  - number of out patients
+[main] INFO  admin  - Doctor id is 100
+[main] INFO  admin  - Number of in patients 25
+[main] INFO  admin  - Number of out patients 17
+[main] INFO  admin  - ***********************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Doctor id is 100
+[main] INFO  admin  - Number of in patients 25
+[main] INFO  admin  - Number of out patients 17
+[main] INFO  admin  - ***********************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Doctor id is 100
+[main] INFO  admin  - Number of in patients 25
+[main] INFO  admin  - Number of out patients 17
+[main] INFO  admin  - ***********************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter adminName
+[main] INFO  admin  - Enter Role
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - admin registered
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Doctor Name is Ram
+[main] INFO  admin  - Specialization of Doctor is Neuro
+[main] INFO  admin  - Years of experience 7
+[main] INFO  admin  - Availabile from Monday
+[main] INFO  admin  - Available till Sunday
+[main] INFO  admin  - Arriving Time 09:00:00
+[main] INFO  admin  - Leaving Time 22:00:00
+[main] INFO  admin  - Charges per patient 750
+[main] INFO  admin  - Ratings of Doctor 9
+[main] INFO  admin  - ********************************************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Update appointment
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter appointmentDate
+[main] INFO  admin  - Enter appointmentTime
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Update appointment
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter appointmentDate
+[main] INFO  admin  - Enter appointmentTime
+[main] INFO  admin  - updated
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Update appointment
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter appointmentDate
+[main] INFO  admin  - Enter appointmentTime
+[main] INFO  admin  - updated
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Doctor id is 100
+[main] INFO  admin  - Number of in patients 25
+[main] INFO  admin  - Number of out patients 17
+[main] INFO  admin  - ***********************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Doctor Name is Ram
+[main] INFO  admin  - Specialization of Doctor is Neuro
+[main] INFO  admin  - Years of experience 7
+[main] INFO  admin  - Availabile from Monday
+[main] INFO  admin  - Available till Sunday
+[main] INFO  admin  - Arriving Time 09:00:00
+[main] INFO  admin  - Leaving Time 22:00:00
+[main] INFO  admin  - Charges per patient 750
+[main] INFO  admin  - Ratings of Doctor 9
+[main] INFO  admin  - ********************************************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding Doctor
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Enter doctorName
+[main] INFO  admin  - Enter specialization
+[main] INFO  admin  - Enter yearOfExperience
+[main] INFO  admin  - Enter availabilityFromDay
+[main] INFO  admin  - Enter availabilityEndDay
+[main] INFO  admin  - Enter availabilityStartTime
+[main] INFO  admin  - Enter availabilityEndTime
+[main] INFO  admin  - Enter charges
+[main] INFO  admin  - Enter ratings
+[main] INFO  admin  - User is added
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Update appointment
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter appointmentDate
+[main] INFO  admin  - Enter appointmentTime
+[main] INFO  admin  - updated
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Update appointment
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter appointmentDate
+[main] INFO  admin  - Enter appointmentTime
+[main] INFO  admin  - updated
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Update appointment
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter appointmentDate
+[main] INFO  admin  - Enter appointmentTime
+[main] INFO  admin  - updated
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Doctor is deleted
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Doctor Name is Ram
+[main] INFO  admin  - Specialization of Doctor is Neuro
+[main] INFO  admin  - Years of experience 7
+[main] INFO  admin  - Availabile from Monday
+[main] INFO  admin  - Available till Sunday
+[main] INFO  admin  - Arriving Time 09:00:00
+[main] INFO  admin  - Leaving Time 22:00:00
+[main] INFO  admin  - Charges per patient 750
+[main] INFO  admin  - Ratings of Doctor 9
+[main] INFO  admin  - ********************************************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Doctor id is 100
+[main] INFO  admin  - Number of in patients 25
+[main] INFO  admin  - Number of out patients 17
+[main] INFO  admin  - ***********************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Doctor id is 104
+[main] INFO  admin  - Number of in patients 25
+[main] INFO  admin  - Number of out patients 17
+[main] INFO  admin  - ***********************
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Update appointment
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - Enter appointmentId
+[main] INFO  admin  - Enter appointmentDate
+[main] INFO  admin  - Enter appointmentTime
+[main] INFO  admin  - updated
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - Enter userId
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter adminName
+[main] INFO  admin  - Enter password
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - Invalid Option
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  admin  -  Enter Password 
+[main] INFO  admin  - login successfull
+[main] INFO  admin  - Choose Admin operations
+[main] INFO  admin  - 1. Add doctor
+[main] INFO  admin  - 2. Delete Doctor
+[main] INFO  admin  - 3. Delete Patient
+[main] INFO  admin  - 4. View appointments
+[main] INFO  admin  - 5. View doctor info
+[main] INFO  admin  - 6. Update appointment
+[main] INFO  admin  - 7. Delete admin
+[main] INFO  admin  - 
+
+[main] INFO  admin  - ......................
+[main] INFO  admin  - select the options
+[main] INFO  admin  - ......................
+[main] INFO  admin  - adding Doctor
+[main] INFO  admin  - Enter doctorId
+[main] INFO  admin  - Enter doctorName
+[main] INFO  admin  - Enter specialization
+[main] INFO  admin  - Enter yearOfExperience
+[main] INFO  admin  - Enter availabilityFromDay
+[main] INFO  admin  - Enter availabilityEndDay
+[main] INFO  admin  - Enter availabilityStartTime
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter adminName
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - admin registered
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 
+[main] INFO  Home  - ***** Welcome To Book My Doctor*****
+[main] INFO  Home  - 1.Admin Page 
+[main] INFO  Home  - 2.Doctor Page 
+[main] INFO  Home  - 3.Patient Page 
+[main] INFO  Home  - *****Welcome To Admin Page *****
+[main] INFO  admin  - Choose the options
+[main] INFO  admin  - Press 1 for login
+[main] INFO  admin  - Press 2 to register
+[main] INFO  admin  - Register
+[main] INFO  admin  - Enter adminId
+[main] INFO  admin  - Enter userId
+[main] INFO  admin  - Enter adminName
+[main] INFO  admin  - Enter password
+[main] INFO  admin  - admin registered
+[main] INFO  admin  - Please login
+[main] INFO  admin  -  Enter user id 

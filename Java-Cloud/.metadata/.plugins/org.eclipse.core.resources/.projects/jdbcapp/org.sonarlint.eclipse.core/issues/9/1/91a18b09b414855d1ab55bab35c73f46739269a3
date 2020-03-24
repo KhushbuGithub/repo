@@ -1,0 +1,25 @@
+
+{squid:S2095("MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(æ‘’8÷‡ôåü-HÿRBLOCKERZBUG
+_squid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œ‡Ùåü-H€RMINORZVULNERABILITY
+asquid:S4925"-Remove this "Class.forName()", it is useless.(Æ…ÈŸ8œ‡Ùåü-HRMAJORZ
+CODE_SMELL
+l
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ñßÁÚ8œ‡Ùåü-H‚RMAJORZ
+CODE_SMELL
+{squid:S20950"GUse try-with-resources or close this "Statement" in a "finally" clause.(¿ğ»üÿÿÿÿÿ8œ‡Ùåü-HƒRBLOCKERZBUG
+vsquid:S20951"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶š8œ‡Ùåü-H„RBLOCKERZBUG
+q
+squid:S106;"9Replace this use of System.out or System.err by a logger.(­¡ØÀıÿÿÿÿ8œ‡Ùåü-H…RMAJORZ
+CODE_SMELL
+l
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÂÆ¹ê8œ‡Ùåü-H†RMAJORZ
+CODE_SMELL
+fsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8÷‡ôåü-H‡RCRITICALZ
+CODE_SMELL
+l
+squid:S106="9Replace this use of System.out or System.err by a logger.(ÚùÉ‹8œ‡Ùåü-HˆRMAJORZ
+CODE_SMELL
+q
+squid:S106>"9Replace this use of System.out or System.err by a logger.(‰¬ó°üÿÿÿÿ8œ‡Ùåü-H‰RMAJORZ
+CODE_SMELL
+_squid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œ‡Ùåü-HŠRMINORZVULNERABILITY

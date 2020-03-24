@@ -1,0 +1,16 @@
+
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ØÆ½£ıÿÿÿÿ8Ë¯¥¯ı-HÖRMAJORZ
+CODE_SMELL
+asquid:S4925"-Remove this "Class.forName()", it is useless.(Æ…ÈŸ8¹Àô®ı-HĞRMAJORZ
+CODE_SMELL
+ƒsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(âûªşşÿÿÿÿ8¹Àô®ı-HÍRBLOCKERZBUG
+^squid:S2068" Remove this hard-coded password.(é“àüÿÿÿÿ8¹Àô®ı-HÑRBLOCKERZVULNERABILITY
+_squid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹Àô®ı-HÎRMINORZVULNERABILITY
+`squid:S1481"'Remove this unused "dm" local variable.(üÔ¯Üıÿÿÿÿ8¹Àô®ı-HÓRMINORZ
+CODE_SMELL
+|squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(é“àüÿÿÿÿ8š©µ¯ı-HçRBLOCKERZBUG
+msquid:S1854"9Remove this useless assignment to local variable "dburl".(¼ ·8š©µ¯ı-HèRMAJORZ
+CODE_SMELL
+^squid:S1481"*Remove this unused "dburl" local variable.(¼ ·8š©µ¯ı-HéRMINORZ
+CODE_SMELL

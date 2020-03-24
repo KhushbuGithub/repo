@@ -1,0 +1,23 @@
+<div class="col-md-4 offset-4 card card-body mt-5">
+    <h4>Add product</h4>
+    <form #form="ngForm" (ngSubmit)="addProductData(form)">
+        <div class="form-group">
+            <label for="productName">Enter product Name..</label>
+            <input type="text" class="form-control" name="productName" id="productName" aria-describedby="helpId"
+                placeholder="Enter product Name..." ngModel>
+        </div>
+        <div class="form-group">
+            <label for="productCost">Enter product Cost..</label>
+            <input type="text" class="form-control" name="productCost" id="productCost" aria-describedby="helpId"
+                placeholder="Enter product Cost..." ngModel>
+        </div>
+        <div class="form-group">
+            <label for="productImage">Enter product Image ..</label>
+            <input type="text" class="form-control" name="productImage" id="productImage" aria-describedby="helpId"
+                placeholder="Enter product Image ..." ngModel>
+        </div>
+        <div>
+            <button type="submit" class="btn btn-outline-primary">Add Product</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,32 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú•€Ë8ÆÕ¹‰ø-HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ8ÆÕ¹‰ø-HRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8ëà­‰ø-H‡RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8ÆÕ¹‰ø-HŒRMAJORZ
+CODE_SMELL
+’squid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡õÑÁıÿÿÿÿ8ëà­‰ø-H†RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(áí¹~8¥¾²‰ø-H‹RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬8¥¾²‰ø-HŠRMAJORZ
+CODE_SMELL
+‰squid:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¡õÑÁıÿÿÿÿ8ëà­‰ø-H…RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8İ›°‰ø-H‰RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8êÅ¿‰ø-HRMAJORZ
+CODE_SMELL
+k
+squid:S106 "9Replace this use of System.out or System.err by a logger.(»Ü×\8êÅ¿‰ø-HRMAJORZ
+CODE_SMELL

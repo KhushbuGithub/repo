@@ -1,0 +1,46 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ8å©§ö-HğRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(£º¾¬øÿÿÿÿ8å©§ö-HñRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ8°¶—¨ö-HòRMAJORZ
+CODE_SMELL
+Usquid:S2129"!Remove this "Integer" constructor(†˜¨å8°¶—¨ö-HóRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åˆ’”8Ê† ¨ö-HôRMAJORZ
+CODE_SMELL
+q
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ĞôÈàûÿÿÿÿ8îŠØ¨ö-HõRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8ß‘Ï§ö-HöRMAJORZ
+CODE_SMELL
+esquid:S4973"9Use the "equals" method if value comparison was intended.(—“ÉM8°¶—¨ö-H÷RMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÙÂÏÿÿÿÿÿ8°¶—¨ö-HøRMAJORZ
+CODE_SMELL
+Zsquid:S2129"!Remove this "Integer" constructor(ûŒØëüÿÿÿÿ8°¶—¨ö-HùRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(—“ÉM8°¶—¨ö-HúRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(’–¦Òøÿÿÿÿ8 ÈÁ¦ö-HûRMAJORZ
+CODE_SMELL
+Zsquid:S2129"!Remove this "Integer" constructor(ƒƒÚÊùÿÿÿÿ8å©§ö-HüRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úïìûÿÿÿÿ8Ê† ¨ö-HıRMAJORZ
+CODE_SMELL
+zsquid:S2133"ARemove this object instantiation and use "Integer.class" instead.(ƒƒÚÊùÿÿÿÿ8å©§ö-HşRMAJORZ
+CODE_SMELL
+k
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¤È¨/8îŠØ¨ö-HÿRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(†¿Ğºıÿÿÿÿ8©ÑØ¦ö-H€RMAJORZ
+CODE_SMELL

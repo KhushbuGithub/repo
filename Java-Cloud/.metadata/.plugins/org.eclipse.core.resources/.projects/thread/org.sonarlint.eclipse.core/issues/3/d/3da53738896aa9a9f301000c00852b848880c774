@@ -1,0 +1,11 @@
+
+jsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ã÷Šòø-H”RINFOZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š°‰Ø8ğêòğø-HÿRMAJORZ
+CODE_SMELL
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ã÷Šòø-H“RMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(È÷÷íøÿÿÿÿ8èØöğø-HRMAJORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ã÷Šòø-H’RMINORZVULNERABILITY

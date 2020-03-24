@@ -1,0 +1,17 @@
+<div class="col-md-4 offset-4 card card-body mt-5">
+    <form #form="ngForm" (ngSubmit)="loginData(form)">
+        <div class="form-group">
+            <label for="email">Enter email..</label>
+            <input type="text" class="form-control" name="email" id="email" aria-describedby="helpId"
+                placeholder="Enter Email..." ngModel>
+        </div>
+        <div class="form-group">
+            <label for="password">Enter password..</label>
+            <input type="text" class="form-control" name="password" id="password" aria-describedby="helpId"
+                placeholder="Enter password..." ngModel>
+        </div>
+        <div>
+            <button type="submit" class="btn btn-outline-primary">Login</button>
+        </div>
+    </form>
+</div>

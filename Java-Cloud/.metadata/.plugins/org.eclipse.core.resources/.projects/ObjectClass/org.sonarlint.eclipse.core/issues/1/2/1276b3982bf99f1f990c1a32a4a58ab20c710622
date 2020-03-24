@@ -1,0 +1,11 @@
+
+squid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(†«š8“«îø-HœRMINORZ
+CODE_SMELL
+fsquid:S1199"-Extract this nested code block into a method.(Æ€äùÿÿÿÿ8¶ÉÑ¡ø-HâRMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯„Îçûÿÿÿÿ8¶ÉÑ¡ø-HãRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥²˜Å8¶ÉÑ¡ø-HäRMAJORZ
+CODE_SMELL

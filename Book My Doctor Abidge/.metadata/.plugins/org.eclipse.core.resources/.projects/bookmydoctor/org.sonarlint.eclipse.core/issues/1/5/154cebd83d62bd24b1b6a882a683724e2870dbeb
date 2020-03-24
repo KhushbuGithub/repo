@@ -1,0 +1,8 @@
+
+ˆsquid:UselessImportCheck
+"NRemove this unused import 'com.capgemini.bookmydoctor.dto.PatientRegisterDto'.(Í¥í€HšRMINORZ
+CODE_SMELL
+}squid:UselessImportCheck"CRemove this unused import 'com.capgemini.bookmydoctor.dto.UserDto'.(Ü¥‰¾H›RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸ñà‚üÿÿÿÿHœRMAJORZ
+CODE_SMELL

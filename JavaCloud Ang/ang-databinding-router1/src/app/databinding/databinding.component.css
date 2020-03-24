@@ -1,0 +1,14 @@
+.style1{
+    color: aquamarine;
+    padding: 20px;
+    background-color: blueviolet;
+}
+.style2{
+    color: crimson;
+    padding: 20px;
+    background-color: darkgray;
+}
+table{
+    border-radius: 5px;
+    border-spacing: 5px;
+}

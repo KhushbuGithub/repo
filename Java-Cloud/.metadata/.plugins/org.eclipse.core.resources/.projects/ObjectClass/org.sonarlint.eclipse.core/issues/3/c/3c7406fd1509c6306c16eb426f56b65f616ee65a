@@ -1,0 +1,14 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(é÷Ï’úÿÿÿÿ8©‚¥û÷-H«RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(²é´È8Ä û÷-H©RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò®Ûó8Ä û÷-H¨RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼¶ÎÑ8©‚¥û÷-HªRMAJORZ
+CODE_SMELL
+Ysquid:S2129	" Remove this "String" constructor(âœˆ€ùÿÿÿÿ8Ä»«û÷-H¬RMAJORZ
+CODE_SMELL

@@ -1,0 +1,43 @@
+<div class="container-fluid">
+    <div class="d-flex img h-100" >
+        
+        <div class="container bg-light">
+            <div class="d-flex h-100">
+                <div class="appointment">
+                    <div class="card">
+                        <div class="card-body">
+                            <table class="table">
+                                <thead class="thead">
+                                    <tr>
+                                        <th>AppointmentId</th>
+                                        <th>Patient Name</th>
+                                        <th>Patient Id</th>
+                                        <th>Patient Age</th>
+                                        <th>Disease Symptoms</th>
+                                        <th>Time SLot</th>
+                                        <th>Date</th>
+                                        <th>Approval</th>
+                                        <th>action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor='let appointment of appointments'>
+                                        <td>{{appointment.appiontmentId}}</td>
+                                        <td>{{appointment.patientName}}</td>
+                                        <td>{{appointment.patientId}}</td>
+                                        <td>{{appointment.age}}</td>
+                                        <td>{{appointment.diseaseSymptoms}}</td>
+                                        <td>{{appointment.timeSlot}}</td>
+                                        <td>{{appointment.appointmentDate}}</td>
+                                        <td>{{appointment.approval}}</td>
+                                        <td><button class="btn btn-success" (click)='action(appointment)'>process request</button></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

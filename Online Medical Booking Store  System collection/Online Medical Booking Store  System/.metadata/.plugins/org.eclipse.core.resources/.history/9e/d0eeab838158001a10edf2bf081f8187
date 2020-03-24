@@ -1,0 +1,5 @@
+package com.capgemini.bookmydoctor.controller;
+
+public class AdminController {
+
+}

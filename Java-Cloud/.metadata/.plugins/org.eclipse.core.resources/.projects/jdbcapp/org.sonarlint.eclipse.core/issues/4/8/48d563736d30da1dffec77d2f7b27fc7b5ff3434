@@ -1,0 +1,10 @@
+
+_squid:S1148 "#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æº®õü-H»RMINORZVULNERABILITY
+vsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ô—ø’8æº®õü-H¸RBLOCKERZBUG
+|squid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(•¿ÇÑ8§ó‰†ý-H½RBLOCKERZBUG
+_squid:S1148*"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æº®õü-H¹RMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÝÀÂÇÿÿÿÿÿ8æº®õü-H·RMAJORZ
+CODE_SMELL
+fsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8§ó‰†ý-H¾RCRITICALZ
+CODE_SMELL

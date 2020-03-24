@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.dao.AdminDao"/>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.dao.DoctorDao"/>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.dao.PatientDao"/>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.service.AdminService"/>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.service.DoctorService"/>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.service.PatientService"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="net.bytebuddy.agent.builder.AgentBuilder.Default.ExecutingTransformer.Factory"/>
+<fullyQualifiedTypeName name="com.sun.istack.logging.Logger"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="antlr.collections.List"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.dto.UserDto"/>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.dto.UserDao"/>
+<fullyQualifiedTypeName name="com.capgemini.bookmydoctor.service.UserService"/>
+</qualifiedTypeNameHistroy>

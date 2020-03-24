@@ -1,0 +1,7 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ½ï8Å»‹öø-Hä	RMAJORZ
+CODE_SMELL
+€squid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Å»‹öø-Hå	RMINORZ
+CODE_SMELL
+‚squid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(–İÜ¯øÿÿÿÿ8Å»‹öø-Hæ	RBLOCKERZBUG

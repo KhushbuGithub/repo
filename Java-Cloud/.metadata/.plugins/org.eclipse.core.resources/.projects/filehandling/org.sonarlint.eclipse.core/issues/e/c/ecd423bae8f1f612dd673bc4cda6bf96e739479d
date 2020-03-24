@@ -1,0 +1,7 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΗΓ§εώÿÿÿÿ8Βποφψ-Hν	RMAJORZ
+CODE_SMELL
+€squid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·ξ™ωÿÿÿÿ8Βποφψ-Hξ	RMINORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Βποφψ-Hο	RMINORZVULNERABILITY

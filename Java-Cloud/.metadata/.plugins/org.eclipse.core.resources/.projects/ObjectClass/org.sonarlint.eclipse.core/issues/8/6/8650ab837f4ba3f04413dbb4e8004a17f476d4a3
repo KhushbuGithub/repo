@@ -1,0 +1,9 @@
+
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(éÍÏªùÿÿÿÿ8«§Ò÷-H¼RMINORZ
+CODE_SMELL
+~squid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÉèñÒ8«§Ò÷-H»RMINORZ
+CODE_SMELL
+usquid:S11265"AReplace this if-then-else statement by a single return statement.(¡Ğ¡8«§Ò÷-H½RMINORZ
+CODE_SMELL
+tsquid:S3516"9Refactor this method to not always return the same value.(İüùÓşÿÿÿÿ8®é¨Ó÷-HºRBLOCKERZ
+CODE_SMELL

@@ -1,0 +1,25 @@
+
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ì¯Äèüÿÿÿÿ8ßÜø-H™RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(öÈÛ¡8÷Ö¶Ÿø-H¬RMAJORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Âïæº8ßÜø-H˜RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥²˜Å8ßÜø-H—RMAJORZ
+CODE_SMELL
+squid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á˜Üõ8»“ìø-HRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(„íí8ú„¸ø-H“RMAJORZ
+CODE_SMELL
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(İ¨Òøÿÿÿÿ8š³ªŸø-H«RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Ğİ¤ø-H’RMAJORZ
+CODE_SMELL

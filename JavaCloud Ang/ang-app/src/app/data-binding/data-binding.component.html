@@ -1,0 +1,51 @@
+<h2 [innerText]=fullname>
+</h2>
+<img [src]="imgurl" >
+<h2 [innerText]=Person.name></h2>
+<h2 [innerText]=Person.age></h2>
+<h1>--------------------Interpolation in angular--------------------------</h1>
+
+<h1>{{fullname}}</h1>
+<img src="{{imgurl}}" >
+<h1>{{Person.name}}</h1>
+<h1>{{Person.age}}</h1>
+
+<h1>----------------------Class Binding----------------------</h1>
+<h3 [class.style1]="flag" [class.style2]="!flag" >
+    This is the concept of class Binding
+</h3>
+<h3 [class.bg-success]="flag" [class.bg-info]="!flag">
+    Hello</h3>
+
+    <h1>------------------Style Binding-----------------</h1>
+
+    <h3 [style.backgroundColor]="flag? 'red':'green'" [style.color]="flag?'white':'black'">
+        Hi i am Style Binding
+    </h3>
+    <h2>--------------------Attribute Binding----------------------</h2>
+    <table class="table table-border">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th [attr.colspan]="colSpanValue">Contacts</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ram</td>
+                <td>4567899</td>
+                <td>6890000</td>
+            </tr>
+            <tr>
+                <td>Shyam</td>
+                <td>09877666</td>
+                <td>3672789</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h1>-----Event Binding----------</h1>
+    <input type="email" #emailinput name="email" id="email" placeholder="Enter email" class="form-control col-md-4 offset-5 mb-7" 
+    (keyup) ="keyupData(emailinput)"   />
+    <h1>{{inputvalueofemail}}</h1>
+    

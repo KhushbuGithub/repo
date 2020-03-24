@@ -1,0 +1,35 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰›Êú8¯·ÕÖ÷-HßRMAJORZ
+CODE_SMELL
+’squid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç×¢ıÿÿÿÿ8¯·ÕÖ÷-HàRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô€šûÿÿÿÿ8¯·ÕÖ÷-HáRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼À¡Ç8¯·ÕÖ÷-HâRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ã„·üÿÿÿÿ8¯·ÕÖ÷-HãRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ8¯·ÕÖ÷-HäRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¯·ÕÖ÷-HåRMAJORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å™º‘ûÿÿÿÿHæRMINORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(š¨ÑÒùÿÿÿÿ8¯·ÕÖ÷-HçRMAJORZ
+CODE_SMELL
+k
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Œôy8¯·ÕÖ÷-HèRMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‡ˆ±óüÿÿÿÿ8¯·ÕÖ÷-HéRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úó¬8¯·ÕÖ÷-HêRMAJORZ
+CODE_SMELL

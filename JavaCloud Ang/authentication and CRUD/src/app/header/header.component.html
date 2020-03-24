@@ -1,0 +1,29 @@
+<nav class="navbar navbar-expand-md navbar-dark" style="background-color: #1c3649;">
+    <a class="navbar-brand" routerLink="#">My App</a>
+    <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
+        aria-expanded="false" aria-label="Toggle navigation"></button>
+    <div class="collapse navbar-collapse" id="collapsibleNavId">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item active" *ngIf="role === 'user'">
+                <a class="nav-link" routerLink="/">Home</a>
+            </li>
+            <li class="nav-item" *ngIf="role === 'admin'">
+                <a class="nav-link" routerLink="/products">Products</a>
+            </li>
+            <li class="nav-item" *ngIf="role === 'admin'">
+                <a class="nav-link" routerLink="/add-product">Add product</a>
+            </li>
+        </ul>
+        <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+            <li class="nav-item active" *ngIf="role === null">
+                <a class="nav-link" routerLink="/login">Login</a>
+            </li>
+            <li class="nav-item" *ngIf="role === null">
+                <a class="nav-link" routerLink="/register">Register</a>
+            </li>
+            <li class="nav-item" *ngIf="role !== null">
+                <a class="nav-link" (click)="logout()">logout</a>
+            </li>
+        </ul>
+    </div>
+</nav>

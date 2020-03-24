@@ -1,0 +1,13 @@
+
+esquid:S3416"3Update this logger to use "DoctorController.class".(®ÙÈÅúÿÿÿÿHÿRMINORZ
+CODE_SMELL
+ysquid:S3973q"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØH€RCRITICALZ
+CODE_SMELL
+Œsquid:S1192"VDefine a constant instead of duplicating this literal "enter the information" 3 times.(Š¥‹£şÿÿÿÿHRCRITICALZ
+CODE_SMELL
+bsquid:EmptyStatementUsageCheckÿ"Remove this empty statement.(Åñ­õşÿÿÿÿH‚RMINORZ
+CODE_SMELL
+Šsquid:UselessImportCheck"KRemove this unused import 'com.capgemini.bookmydoctor.factory.UserFactory'.(²äÿİşÿÿÿÿHƒRMINORZ
+CODE_SMELL
+‹squid:UselessImportCheck"QRemove this unused import 'com.capgemini.bookmydoctor.service.DoctorServiceImpl'.(³İH„RMINORZ
+CODE_SMELL

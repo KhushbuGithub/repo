@@ -1,0 +1,129 @@
+<div class="alert alert-success" *ngIf='success'>{{success}}</div>
+<div class="alert alert-danger" *ngIf='failure'>{{failure}}</div>
+<div class="patient">
+    <div class="col-md-5 offset-md-4 mt-4 patient">
+        <h1> Add Patient</h1>
+        <div class="container-fluid">
+            <div class="d-flex justify-content-around">
+                <div class="card">
+                    <div class="card-body">
+                        <form #addedPatient='ngForm' (ngSubmit)='updatePatient(addedPatient)'>
+                            <div class="form-group ">
+                                <input type="text" name="patientId" id="patientId" #patientId='ngModel' [(ngModel)]='this.bookMyDoc.valueOfPatientDetails.patientId'
+                                    class="form-control" readonly>
+                            </div>
+                            <div class="form-group float-left">
+                                <label for="patientName">Patient Name</label>
+                                <input type="text" name="patientName" id="patientName" #patientName='ngModel' [(ngModel)]='this.bookMyDoc.valueOfPatientDetails.patientName'
+                                    class="form-control" required>
+                                
+                            </div>
+
+                            <div class="form-group float-right">
+                                <label for="age">Patient Age</label>
+                                <input type="text" name="age" id="age" #age='ngModel' [(ngModel)]='this.bookMyDoc.valueOfPatientDetails.age' class="form-control"
+                                    required placeholder="Enter Patient Age">
+                                <div *ngIf='age.touched && age.invalid'>
+                                    <div class="alert alert-danger" *ngIf='age.errors.required'>
+                                        This field is mandatory
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group float-right">
+                                <label for="mobileNumber">Mobile Number</label>
+                                <input type="text" name="mobileNumber" id="mobileNumber" #mobileNumber='ngModel' [(ngModel)]='this.bookMyDoc.valueOfPatientDetails.mobileNumber'
+                                    class="form-control" required placeholder="Enter Mobile Number" maxlength="10"
+                                    minlength="10" pattern="(0/91)?[7-9][0-9]{9}">
+                                <div *ngIf='mobileNumber.touched && mobileNumber.invalid'>
+                                    <div class="alert alert-danger" *ngIf='mobileNumber.errors.required'>
+                                        This field is mandatory
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='mobileNumber.errors.minlength'>
+                                        *minimum 10 letters are mandatory
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='mobileNumber.errors.minlength'>
+                                        *maximum 10 letters are allowed
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='mobileNumber.errors.pattern'>
+                                        *Only Numbers are allowed
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group float-left">
+                                <div>
+                                    <label for="gender">Gender</label>
+                                    <input type="text" name="gender" id="gender" class="form-control" #gender='ngModel' [(ngModel)]='this.bookMyDoc.valueOfPatientDetails.gender'
+                                        required hidden>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <br><br><br><br><br><br><br>
+                                <br><label for="email">Email</label><input type="email" name="email" id="email"
+                                    #email='ngModel' [(ngModel)]='this.bookMyDoc.valueOfPatientDetails.email' class="form-control" required readonly>
+
+                                <div *ngIf='email.touched && email.invalid'>
+                                    <div class="alert alert-danger" *ngIf='email.errors.required'>
+                                        This field is mandatory
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='email.errors.pattern'>
+                                        Enter correct email format
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group float-left">
+                                <label for="password">Password</label>
+                                <input type="password" name="password" id="password" #password='ngModel' ngModel
+                                    class="form-control" required placeholder="Enter Password" minlength="8"
+                                    pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" hidden>
+                                <div *ngIf='password.touched && password.invalid'>
+                                    <div class="alert alert-danger" *ngIf='password.errors.required'>
+                                        *Field is Mandatory
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='password.errors.minlength'>
+                                        *minimum 8 characters required
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='password.errors.pattern'>
+                                        Password should contains atleast one uppercase,
+                                        one lowercase,one digit, and one special character
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group float-right">
+                                <label for="location">Town</label>
+                                <input type="text" name="location" id="location" #location='ngModel' [(ngModel)]='this.bookMyDoc.valueOfPatientDetails.location'
+                                    class="form-control" required placeholder="Enter Location" maxlength="25"
+                                    minlength="3" pattern="^[a-zA-Z]+(?: [a-zA-z]+)*$">
+                                <div *ngIf='location.touched && location.invalid'>
+                                    <div class="alert alert-danger" *ngIf='location.errors.required'>
+                                        This field is mandatory
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='location.errors.minlength'>
+                                        *minimum 3 letters are mandatory
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='location.errors.pattern'>
+                                        *Only alphabets are allowed
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group float-left">
+                                <label for="language">Language</label>
+                                <input type="text" name="language" id="language" #language='ngModel' [(ngModel)]='this.bookMyDoc.valueOfPatientDetails.language'
+                                    class="form-control" required placeholder="Enter Language">
+                                <div *ngIf='language.touched && language.invalid'>
+                                    <div class="alert alert-danger" *ngIf='language.errors.required'>
+                                        This field is mandatory
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="float-right">
+                                <button type="submit" class="btn btn-info float-right ">
+                                   update
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>

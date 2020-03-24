@@ -1,0 +1,7 @@
+
+qsquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(˙°Ÿ€HRMINORZ
+CODE_SMELL
+dsquid:UselessImportCheck"*Remove this unused import 'java.sql.Date'.(Ÿ¿Ω HÒRMINORZ
+CODE_SMELL
+gsquid:S1118":Add a private constructor to hide the implicit public one.(å⁄≤ùHÚRMAJORZ
+CODE_SMELL

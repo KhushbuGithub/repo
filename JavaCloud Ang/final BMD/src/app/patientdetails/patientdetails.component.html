@@ -1,0 +1,37 @@
+<div class="alert alert-success" *ngIf='success'>{{success}}</div>
+<div class="alert alert-failure" *ngIf='failure'>{{failure}}</div>
+<div class="container mt-3">
+        <table class="table table-hover table-dark">
+                <thead>
+                  <tr>
+                    <th >Patient Name</th>
+                    <th >Gender</th>
+                    <th >Email</th>
+                    <th >Age</th>
+                    <th >Mobile Number</th>
+                    <th >Location</th>
+                    <th >Language</th>
+                    <th >Action</th>
+                </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor='let patient of patients'>
+                    
+                    <td>{{patient.patientName}}</td>
+                    <td>{{patient.gender}}</td>
+                    <td>{{patient.email}}</td>
+                    <td>{{patient.age}}</td>
+                    <td>{{patient.mobileNumber}}</td>
+                    <td>{{patient.location}}</td>
+                    <td>{{patient.language}}</td>
+
+                    <!-- <td><button class="btn btn-outline-primary" (click) = 'viewDoctor(doctor)'>View</button></td> -->
+                    <td><button class="btn btn-outline-danger"(click) = 'deletePatient(patient)'>Delete</button></td>
+                  </tr>
+                  
+                </tbody>
+              </table>
+</div>
+        
+      
+

@@ -1,0 +1,15 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş­»8¹­Òùø-HÑRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍúÀªÿÿÿÿÿ8©åÙùø-H×RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉŒüş8¹­Òùø-HÓRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(àŸÉùÿÿÿÿ8¹­Òùø-HÒRMAJORZ
+CODE_SMELL
+vsquid:UselessImportCheck"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ8Œóåùø-HÛRMINORZ
+CODE_SMELL

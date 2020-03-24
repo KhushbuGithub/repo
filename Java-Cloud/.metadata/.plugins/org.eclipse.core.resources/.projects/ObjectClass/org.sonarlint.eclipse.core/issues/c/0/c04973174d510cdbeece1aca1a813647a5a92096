@@ -1,0 +1,12 @@
+
+msquid:S1854"5Remove this useless assignment to local variable "p".(¦èŽ¨ÿÿÿÿÿ8ÍŽî­ö-HCRMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(È÷÷íøÿÿÿÿ8ÍŽî­ö-HFRMAJORZ
+CODE_SMELL
+msquid:S1854"5Remove this useless assignment to local variable "p".(ó¸ÞÃþÿÿÿÿ8ÍŽî­ö-HDRMAJORZ
+CODE_SMELL
+Šsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8ÍŽî­ö-HERCRITICALZ
+CODE_SMELL
+^squid:S1481"&Remove this unused "p" local variable.(ó¸ÞÃþÿÿÿÿ8ÍŽî­ö-HGRMINORZ
+CODE_SMELL

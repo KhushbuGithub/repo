@@ -1,0 +1,33 @@
+<div class="alert alert-success" *ngIf='success'>{{success}}</div>
+<div class="alert alert-failure" *ngIf='failure'>{{failure}}</div>
+<div class="container mt-3">
+        <table class="table table-hover table-dark">
+                <thead>
+                  <tr>
+                    <th >Rating Id</th>
+                    <th >Appointment Id</th>
+                    <th >Doctor Name</th>
+                    <th >Rating</th>
+                    <th >Review</th>
+                    <th >Action</th>
+                </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor='let rating of ratings'>
+                    
+                    <td>{{rating.ratingId}}</td>
+                    <td>{{rating.patientId}}</td>
+                    <td>{{rating.doctorName}}</td>
+                    <td>{{rating.rating}}</td>
+                    <td>{{rating.review}}</td>
+                    <!-- <td><button class="btn btn-outline-primary" (click) = 'viewDoctor(doctor)'>View</button></td> -->
+                    <td><button class="btn btn-outline-danger"(click) = 'deleteRaing(rating)'>Delete</button></td>
+                  </tr>
+                  
+                </tbody>
+              </table>
+</div>
+        
+      
+
+

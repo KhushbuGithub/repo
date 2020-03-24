@@ -1,0 +1,109 @@
+<div class="container-fluid">
+    
+    <div class="col-md-12 ">
+        <div class="patient">
+            <div class="card text-center ">
+                <div class="card-body mt">
+                    <h2>Patient Details</h2>
+                    <table class="table table-light table-hover">
+                        <thead class="thead bg-success">
+                            <tr>
+                                <th>Patient Id</th>
+                                <th>Patient Name</th>
+                                <th>Age</th>
+                                <th>Email</th>
+                                <th>Gender</th>
+                                <th>Language</th>
+                                <th>Location</th>
+                                <th>Phone.No</th>
+                                <th>Update Details</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor='let patient of patients'>
+                                <td>{{patient.patientId}}</td>
+                                <td>{{patient.patientName}}</td>
+                                <td>{{patient.age}}</td>
+                                <td>{{patient.email}}</td>
+                                <td>{{patient.gender}}</td>
+                                <td>{{patient.language}}</td>
+                                <td>{{patient.location}}</td>
+                                <td>{{patient.mobileNumber}}</td>
+                                <td><button class="btn btn-primary" (click)='updatePatient(patient)'>Update</button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="appointment">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h2>Appointment Details</h2>
+                    <table class="table table-light  table-striped table-hover">
+                        <thead class="thead bg-success">
+                            <tr>
+                                <th>AppointmentId</th>
+                                <th>Patient Id</th>
+                                <th>Doctor Name</th>
+                                <th>Timing</th>
+                                <th>Date</th>
+                                <th>status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor='let appointment of appointments'>
+                                <td>{{appointment.appiontmentId}}</td>
+                                <td>{{appointment.patientId}}</td>
+                                <td>{{appointment.doctorName}}</td>
+                                <td>{{appointment.timeSlot}}</td>
+                                <td>{{appointment.appointmentDate}}</td>
+                                <td>{{appointment.approval}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="card card1">
+        <h3 class="">Appointment History <br>and Reviews</h3>
+    </div>
+    <br><br><br>
+    <div class="d-flex justify-content-around body float-right">
+        <div class="card text-white bg-primary mb-3" style="max-width: 22rem;"
+            *ngFor='let appointment2 of appointments2'>
+            <div class="float-right">
+                <div class="card-header">Doctor name: {{appointment2.doctorName}} <br>Date of visit:
+                    {{appointment2.appointmentDate}}
+                </div>
+
+                <div class="card-body">
+                    <h5 class="card-title">Rate and Review</h5>
+
+                    <form #addRatings='ngForm' (ngSubmit)='addRating(addRatings)'>
+                        <input type="text" name='patientId' #patientId='ngModel'
+                            [(ngModel)]='appointment2.appiontmentId' hidden>
+                        <input type="text" name='doctorName' #doctorName='ngModel'
+                            [(ngModel)]='appointment2.doctorName' hidden>
+                            <input type="text" name='patientName' #patientName='ngModel'
+                            [(ngModel)]='this.bookMyDoc.patientsName' hidden>
+                            <ngb-rating [(rate)]="currentRate"></ngb-rating>
+                            <hr>
+                            <pre>Rate: <b>{{currentRate}}</b></pre>
+                        <input type="text" name='rating' #rating='ngModel' [(ngModel)]='currentRate' hidden>
+                        <label for="review">review</label>
+                        <input type="text" name="review" id="review" #review='ngModel' ngModel class="form-control" placeholder="reviews">
+                        <button type="submit" class="btn btn-success">submit</button>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+        
+    </div>
+</div>

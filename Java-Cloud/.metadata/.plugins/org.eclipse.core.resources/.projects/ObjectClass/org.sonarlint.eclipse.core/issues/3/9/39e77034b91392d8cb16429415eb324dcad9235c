@@ -1,0 +1,32 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÆäv8Ø‹‰ø-HöRMAJORZ
+CODE_SMELL
+squid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨¦éÌ8Ø‹‰ø-HõRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(²”Áã8Æà‘‰ø-HùRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ8¾‹—‰ø-HüRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñîÌà8¥¡‰ø-H÷RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ÖC8¾‹—‰ø-HûRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8Æà‘‰ø-HøRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ8­È’‰ø-HúRMAJORZ
+CODE_SMELL
+™squid:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¨¦éÌ8Ø‹‰ø-HôRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(²”Áã8Ôô‰ø-HıRMAJORZ
+CODE_SMELL
+k
+squid:S106""9Replace this use of System.out or System.err by a logger.(»Ü×\8Ôô‰ø-HşRMAJORZ
+CODE_SMELL

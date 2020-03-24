@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="row card card-body">
+        <app-add-users (addUser)="onAddedUser($event)"></app-add-users>
+    </div>
+
+
+<div class="container" *ngFor="let user of User">
+    <app-display-users [userValue]="user"></app-display-users>
+</div>
+</div>

@@ -1,0 +1,23 @@
+
+osquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÏâĞHõRBLOCKERZBUG
+Xsquid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHöRMINORZVULNERABILITY
+e
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÂÆ¹êH÷RMAJORZ
+CODE_SMELL
+e
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ñßÁÚHøRMAJORZ
+CODE_SMELL
+e
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÚùÉ‹HùRMAJORZ
+CODE_SMELL
+Rsquid:S2068" Remove this hard-coded password.(¢û÷ıHúRBLOCKERZVULNERABILITY
+|squid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(âûªşşÿÿÿÿHûRBLOCKERZBUG
+_squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥‘ˆˆı-HüRMINORZVULNERABILITY
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHıRMAJORZ
+CODE_SMELL
+j
+squid:S106!"9Replace this use of System.out or System.err by a logger.(­¡ØÀıÿÿÿÿHşRMAJORZ
+CODE_SMELL
+j
+squid:S106$"9Replace this use of System.out or System.err by a logger.(‰¬ó°üÿÿÿÿHÿRMAJORZ
+CODE_SMELL

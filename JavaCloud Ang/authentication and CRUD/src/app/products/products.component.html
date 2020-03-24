@@ -1,0 +1,16 @@
+<div class="card mb-3" style="max-width: 540px;" *ngFor="let product of products">
+    <div class="row no-gutters" >
+        <div class="col-md-8">
+            <img src="{{product.productImage}}" width="400" height="200" class="card-img" alt="...">
+        </div>
+
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">{{product.productName | uppercase}}</h5>
+                <p class="card-text">{{product.productCost}}</p>
+            </div>
+        </div>
+    </div>
+    <button type="button" class="btn btn-outline-info" (click)="selectedProduct(product)">Update</button>
+    <button type="button" class="btn btn-outline-danger mt-2" (click)="selectProduct(product)">Delete</button>
+</div>

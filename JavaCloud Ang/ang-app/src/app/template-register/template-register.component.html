@@ -1,0 +1,35 @@
+<div class="col-md4 offset container card-body">
+<form #registerForm="ngForm" (ngSubmit)=loginData(registerForm)>
+<div class="form-group">
+  <label for="first">FirstName</label>
+  <input type="text" class="form-control" name="first" ngModel id="first"  placeholder="enter firstname">
+</div>
+<div class="form-group">
+  <label for="last">LastName</label>
+  <input type="text" class="form-control" name="last" ngModel id="last"  placeholder="enter lastname">
+</div>
+<div class="form-group">
+  <label for="email">Email</label>
+  <input type="text" class="form-control" name="email" ngModel id="email"  placeholder="enter email">
+</div>
+<div class="form-group">
+  <label for="password">Password</label>
+  <input type="text" class="form-control" name="password" ngModel id="password"  placeholder="enter password">
+</div>
+<div class="form-group">
+  <label for="confirmpassword">Confirm Password</label>
+  <input type="text" class="form-control" name="confirmpassword" ngModel id="confirmpassword"  placeholder="enter confirmpassword">
+</div>
+<div>
+    <button type="submit" class="btn btn-outline-primary">Register</button>
+</div>
+
+
+
+
+
+</form>
+
+
+
+</div>

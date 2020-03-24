@@ -1,0 +1,39 @@
+
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä½ÇŸ8ÊşüØö-HÀRMINORZ
+CODE_SMELL
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ºŸÈÑûÿÿÿÿ8ÊşüØö-H¿RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ñÍóüÿÿÿÿ8‘¡¤Ùö-H¼RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë›ª’8ÊşüØö-H¸RMINORZ
+CODE_SMELL
+q
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ºŸÈÑûÿÿÿÿ8¶Œ˜©ø-HÃRMAJORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Éåûøÿÿÿÿ8ÊşüØö-HºRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ8í”ŠÙö-H»RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ8ÊşüØö-H¶RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(úŸ®Š8ÊşüØö-H¹RMINORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ŸÇğ‡8í”ŠÙö-H¾RMAJORZ
+CODE_SMELL
+l
+squid:S106("9Replace this use of System.out or System.err by a logger.(ŸÇğ‡8ÁĞ»©ø-HÅRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ8¡Ô¯Ùö-H½RMAJORZ
+CODE_SMELL
+l
+squid:S106%"9Replace this use of System.out or System.err by a logger.(È©ƒ«8ò¸ÀÙö-H·RMAJORZ
+CODE_SMELL
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ôı¸¯8¿Í½©ø-HÆRMAJORZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸Ñ‡€8¬¾§åü-H°RMAJORZ
+CODE_SMELL
+|squid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(µõ8¬¾§åü-H±RBLOCKERZBUG
+jsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¬¾§åü-H²RINFOZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬¾§åü-H³RMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ§ûÿÿÿÿ8¬¾§åü-H´RMAJORZ
+CODE_SMELL
+€squid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¬¾§åü-HµRMINORZ
+CODE_SMELL

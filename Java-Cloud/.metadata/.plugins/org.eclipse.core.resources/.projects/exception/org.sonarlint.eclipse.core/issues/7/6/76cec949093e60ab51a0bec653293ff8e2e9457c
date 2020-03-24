@@ -1,0 +1,5 @@
+
+Tsquid:S1185"(Remove this method to simply inherit it.(ôîî Hø	RMINORZ
+CODE_SMELL
+Åsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ôîî Hæ	RBLOCKERZ
+CODE_SMELL

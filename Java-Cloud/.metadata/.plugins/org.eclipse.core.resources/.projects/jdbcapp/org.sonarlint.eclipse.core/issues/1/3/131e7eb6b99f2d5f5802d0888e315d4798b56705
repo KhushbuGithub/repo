@@ -1,0 +1,12 @@
+
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH¸RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿHºRMAJORZ
+CODE_SMELL
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHµRMINORZVULNERABILITY
+Rsquid:S2068" Remove this hard-coded password.(¢û÷ýH¶RBLOCKERZVULNERABILITY
+|squid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(âûªþþÿÿÿÿH·RBLOCKERZBUG
+Xsquid:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH¹RMINORZVULNERABILITY
+osquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8±‚…®ý-H¼RMINORZ
+CODE_SMELL

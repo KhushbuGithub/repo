@@ -1,0 +1,15 @@
+
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñëƒ˜8Í©£ø-H©RMINORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ8û¤ø-HªRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍˆëÄ8¶ı£ø-H«RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÙû™8û¤ø-H­RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍˆëÄ8àëƒ©ø-H¯RMAJORZ
+CODE_SMELL

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;controller&apos; to &apos;BookMyDoctor&apos;" description="Rename resource &apos;controller&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/controller" name="BookMyDoctor" stamp="1581164912262" updateReferences="true"/>
+</session>

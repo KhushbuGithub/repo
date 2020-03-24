@@ -1,0 +1,57 @@
+<div class="container col-md-6 offset card card-body">
+  <form #loginForm="ngForm" (ngSubmit)=loginData()>
+    <div class="form-group">
+      <label for="email"></label>
+      <input type="text" class="form-control" name="email" #email="ngModel" id="email" ngModel
+        placeholder="Enter Email..." required email>
+      <div *ngIf="email.invalid && email.touched">
+        <p class="text-danger" *ngIf="email.errors.required">*this is required field</p>
+        <p class="text-danger" *ngIf="email.errors.email">*pattern not matching</p>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="password"></label>
+      <input type="password" class="form-control" name="password" ngModel id="password" #password="ngModel"
+        placeholder="Enter Password..." required pattern="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$">
+      <div *ngIf="password.invalid && password.touched">
+        <p *ngIf="password.errors.required" class="text-danger">*this is required field</p>
+        <p *ngIf="password.errors.pattern" class="text-danger">*pattern did't match</p>
+      </div>
+    </div>
+
+    <div ngModelGroup="address">
+      <div class="form-group">
+        <label for="street"></label>
+        <input type="text" class="form-control" name="street" ngModel id="street" #street="ngModel" required
+          placeholder="Enter street...">
+        <div *ngIf="street.invalid && street.touched">
+          <p class="text-danger">*this is required field</p>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="city"></label>
+        <input type="text" class="form-control" name="city" ngModel id="city" #city="ngModel" required
+          placeholder="Enter city...">
+        <div *ngIf="city.invalid && city.touched">
+          <p class="text-danger">*this is required field</p>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="pincode"></label>
+        <input type="number" class="form-control" name="pincode" ngModel id="pincode" placeholder="Enter pincode...">
+      </div>
+
+    </div>
+    <div>
+      <button type="submit" class="btn btn-outline-primary">Login</button>
+    </div>
+
+
+  </form>
+
+
+
+</div>

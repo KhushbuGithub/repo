@@ -1,0 +1,45 @@
+<h2>************************Property Binding*********************</h2>
+<h3 [innerText]=month></h3>
+<h3 [innerText]=day></h3>
+<img src="img" alt="">
+<h3 [innerText]=student.name></h3>
+<h3 [innerText]=student.age></h3>
+<h2>************************Interpolation*************************</h2>
+<h3>{{student.name}}</h3>
+<h3>{{student.age}}</h3>
+<h3>{{month}}</h3>
+<h2>****************************Class Binding*********************</h2>
+<h3 [class.style1]="flag" [class.style2]="!flag">
+    This is class binding</h3>
+<h3 [class.bg-info]="flag" [class.bg-danger]="!flag">
+    Welcome everyone </h3>
+<h2>************************Style Binding************************</h2>
+<h3 [style.backgroundColor]="flag?'red':'black'" [style.color]="flag?'yellow':'white'">
+    YOLO</h3>
+<h2>********************Attribute Binding************************</h2>
+<table class="table table-border">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th [attr.colspan]="colSpan">Language Known</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ABCD</td>
+            <td>Hindi</td>
+            <td>English</td>
+        </tr>
+        <tr>
+            <td>EFGH</td>
+            <td>English</td>
+            <td>Kannda</td>
+        </tr>
+    </tbody>
+</table>
+<h2>**********************Event Binding***********************</h2>
+
+<input type="email" #emailinput name="email" id="email" placeholder="Enter Email" (keyup)="keyupData(emailinput)"
+class="form-control col-md-4 offset-5 mb-7">
+<h3>{{inputvalueofemail}}</h3>

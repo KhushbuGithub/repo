@@ -1,0 +1,6 @@
+
+wsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8´ ˜þ÷-HÍRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢¬ê«8Ææ˜þ÷-HÏRMAJORZ
+CODE_SMELL

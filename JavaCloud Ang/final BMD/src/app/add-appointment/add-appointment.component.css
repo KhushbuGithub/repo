@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    padding-top: 30px;
+}
+.patient{
+    background-image: url("https://cdn.pixabay.com/photo/2019/10/23/08/46/airplane-4570897_960_720.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height:1000px;
+    padding-top: 2px;
+}
+.card{
+    width:500px;
+    background-color: rgba(0,0,0,0.2);
+    border: none;
+    height: 550px;
+    padding-top: 10px;
+}

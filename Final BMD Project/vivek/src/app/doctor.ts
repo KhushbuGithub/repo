@@ -1,0 +1,19 @@
+interface Doctor{
+    doctorId: number,
+    doctorName: String,
+    gender: String,
+    email: String,
+    age: number,
+    specialization: String,
+    language1: String,
+    language2: String,
+    homeAddress: String,
+    officeAddress: String,
+    city: String,
+    zipCode: number,
+    phoneNumber: number,
+    aboutDoctor: String,
+    doctorImage: String,
+    termsAndCondition: String,
+    password: String
+}

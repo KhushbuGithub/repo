@@ -1,0 +1,59 @@
+
+osquid:S2095?"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰ŞHRBLOCKERZBUG
+}squid:UselessImportCheck"CRemove this unused import 'com.capgemini.bookmydoctor.dto.UserDto'.(Ü¥‰¾HRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(‰¦õÓúÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ÃÙš‘H RMAJORZ
+CODE_SMELL
+psquid:HiddenFieldCheck©"7Rename "dto" which hides the field declared at line 26.(›ˆÔH¡RMAJORZ
+CODE_SMELL
+Ysquid:S1168º"+Return an empty collection instead of null.(¥¹ïH¢RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Â¶ ¾ıÿÿÿÿH£RMAJORZ
+CODE_SMELL
+Wsquid:S00108c")Either remove or fill this block of code.(”ı¾H¤RMAJORZ
+CODE_SMELL
+Xsquid:S00108š")Either remove or fill this block of code.(”ı¾H¥RMAJORZ
+CODE_SMELL
+Xsquid:S00108ï")Either remove or fill this block of code.(”ı¾H¦RMAJORZ
+CODE_SMELL
+Xsquid:S00108ƒ")Either remove or fill this block of code.(”ı¾H§RMAJORZ
+CODE_SMELL
+~squid:S1192("IDefine a constant instead of duplicating this literal "password" 8 times.(—‹¨ùşÿÿÿÿH¨RCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ã‹Ğ²H©RMAJORZ
+CODE_SMELL
+†squid:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ÁÈPHªRMINORZ
+CODE_SMELL
+Wsquid:S00108t")Either remove or fill this block of code.(”ı¾H«RMAJORZ
+CODE_SMELL
+Xsquid:S00108Ì")Either remove or fill this block of code.(”ı¾H¬RMAJORZ
+CODE_SMELL
+psquid:S2095§"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰ŞH­RBLOCKERZBUG
+psquid:HiddenFieldCheckŞ"7Rename "dto" which hides the field declared at line 26.(Ò€H®RMAJORZ
+CODE_SMELL
+dsquid:S4973E"9Use the "equals" method if value comparison was intended.(¢ü°ºÿÿÿÿÿH¯RMAJORZBUG
+ysquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı´Â‡H°RMAJORZ
+CODE_SMELL
+Wsquid:S00108!")Either remove or fill this block of code.(”ı¾H±RMAJORZ
+CODE_SMELL
+Wsquid:S00108I")Either remove or fill this block of code.(”ı¾H²RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(óë³H³RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(·ØÖ©şÿÿÿÿH´RMAJORZ
+CODE_SMELL
+Xsquid:S00108¶")Either remove or fill this block of code.(”ı¾HµRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+psquid:S2095Ü"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰ŞH·RBLOCKERZBUG
+ˆsquid:UselessImportCheck"NRemove this unused import 'com.capgemini.bookmydoctor.dto.PatientRegisterDto'.(Í¥í€H¸RMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(©¯ÿH¹RMAJORZ
+CODE_SMELL
+wsquid:HiddenFieldCheck":Rename "reader" which hides the field declared at line 24.(Š–ŞüÿÿÿÿHºRMAJORZ
+CODE_SMELL
+‡squid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(’É©êH»RMINORZ
+CODE_SMELL

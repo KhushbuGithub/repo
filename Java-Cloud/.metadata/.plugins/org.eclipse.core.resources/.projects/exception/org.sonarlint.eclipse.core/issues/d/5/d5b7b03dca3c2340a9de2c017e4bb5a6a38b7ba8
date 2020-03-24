@@ -1,0 +1,5 @@
+
+ssquid:S1118":Add a private constructor to hide the implicit public one.(Éæþ«ûÿÿÿÿ8–ÝïÍø-H²RMAJORZ
+CODE_SMELL
+Ì%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(ÔƒÒæýÿÿÿÿ8÷”øÍø-H·RMINORZ
+CODE_SMELL

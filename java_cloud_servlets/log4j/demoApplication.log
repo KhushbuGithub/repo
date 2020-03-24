@@ -1,0 +1,5 @@
+[main] DEBUG Khush  - I am a debug method
+[main] INFO  Khush  - I am a info method
+[main] WARN  Khush  - I am a warn method
+[main] ERROR Khush  - I am a error method
+[main] FATAL Khush  - I am a fatal method

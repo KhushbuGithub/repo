@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="row card card-body">
+        <app-add-product (addPro)="onAddedProduct($event)" ></app-add-product>
+    </div>
+
+
+<div class="container" *ngFor="let pro of Product1">
+     <app-display-product [userValue]="pro"></app-display-product>
+</div>
+</div>

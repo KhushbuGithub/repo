@@ -1,0 +1,25 @@
+
+j
+squid:S1062"9Replace this use of System.out or System.err by a logger.(­¡ØÀıÿÿÿÿH½RMAJORZ
+CODE_SMELL
+e
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÚùÉ‹H¾RMAJORZ
+CODE_SMELL
+csquid:S11359"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH¿RINFOZ
+CODE_SMELL
+Rsquid:S2068!" Remove this hard-coded password.(¢û÷ıHÀRBLOCKERZVULNERABILITY
+e
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ñßÁÚHÁRMAJORZ
+CODE_SMELL
+tsquid:S2095&"GUse try-with-resources or close this "Statement" in a "finally" clause.(¿ğ»üÿÿÿÿÿHÂRBLOCKERZBUG
+Xsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÃRMINORZVULNERABILITY
+j
+squid:S1065"9Replace this use of System.out or System.err by a logger.(‰¬ó°üÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+Xsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÅRMINORZVULNERABILITY
+osquid:S2095'"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶šHÆRBLOCKERZBUG
+e
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ÂÆ¹êHÇRMAJORZ
+CODE_SMELL
+Zsquid:S4925"-Remove this "Class.forName()", it is useless.(Æ…ÈŸHÈRMAJORZ
+CODE_SMELL

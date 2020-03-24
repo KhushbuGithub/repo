@@ -1,0 +1,52 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(«î»éÿÿÿÿÿ8åÛ‘Î÷-HRMAJORZ
+CODE_SMELL
+k
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÄÆäv8ï²Î÷-HŸRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÆäv8äğƒÎ÷-HRMAJORZ
+CODE_SMELL
+Zsquid:S2129"!Remove this "Integer" constructor(¤ÑùÑıÿÿÿÿ8äğƒÎ÷-HRMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÃÄûşúÿÿÿÿ8ï²Î÷-HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÄûşúÿÿÿÿ8ï²Î÷-H›RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÆäv8åÛ‘Î÷-H’RMAJORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(«î»éÿÿÿÿÿ8ï²Î÷-HœRMAJORZ
+CODE_SMELL
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Æª€–şÿÿÿÿ8øÃøÍ÷-H‰RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(«î»éÿÿÿÿÿ8’¾£Î÷-H™RMAJORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æª€–şÿÿÿÿ8øÃøÍ÷-HŠRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(«î»éÿÿÿÿÿ8’¾£Î÷-H˜RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÆäv8±ŞùÍ÷-H‹RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÆäv8äğƒÎ÷-HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÄûşúÿÿÿÿ8åÛ‘Î÷-H‘RMAJORZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(«î»éÿÿÿÿÿ8åÛ‘Î÷-HšRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÆäv8äğƒÎ÷-HŒRMAJORZ
+CODE_SMELL
+l
+squid:S106("9Replace this use of System.out or System.err by a logger.(æ™Í8õ¤·Î÷-H RMAJORZ
+CODE_SMELL

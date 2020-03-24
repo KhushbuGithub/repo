@@ -1,0 +1,41 @@
+<div class="col-md-4 offset-4 card card-body mt-5">
+    <form #form="ngForm" (ngSubmit)="registerData(form)">
+        <div class="form-group">
+            <label for="name">Enter name..</label>
+            <input type="text" class="form-control" name="name" id="name" aria-describedby="helpId"
+                placeholder="Enter name..." ngModel>
+        </div>
+        <div class="form-group">
+            <label for="email">Enter email..</label>
+            <input type="text" class="form-control" name="email" id="email" aria-describedby="helpId"
+                placeholder="Enter Email..." ngModel>
+        </div>
+        <div class="form-group">
+            <label for="phone">Enter phone Number..</label>
+            <input type="text" class="form-control" name="phone" id="phone" aria-describedby="helpId"
+                placeholder="Enter phone Number..." ngModel>
+        </div>
+        <div class="form-group">
+            <label for="password">Enter password..</label>
+            <input type="text" class="form-control" name="password" id="password" aria-describedby="helpId"
+                placeholder="Enter password..." ngModel>
+        </div>
+        <div class="form-group">
+          <label for="role">Choose Role...</label>
+          <select class="form-control" name="role" id="role" ngModel="user">
+            <option value="admin">admin</option>
+            <option value="user">user</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="gender">Choose Gender...</label>
+          <select class="form-control" name="gender" id="gender" ngModel="male">
+            <option value="male">male</option>
+            <option value="female">female</option>
+          </select>
+        </div>
+        <div>
+            <button type="submit" class="btn btn-outline-primary">Register</button>
+        </div>
+    </form>
+</div>

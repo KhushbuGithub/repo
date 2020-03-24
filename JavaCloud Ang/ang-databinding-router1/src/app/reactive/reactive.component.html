@@ -1,0 +1,46 @@
+<div class="col-md-4 offset-4 container  card card-body">
+    <form [formGroup]="loginForm" (ngSubmit)="loginValue()" >
+     <div class="form-group">
+       <label for="email">Enter Email</label>
+       <input type="text" class="form-control" formControlName="email" name="email" id="email" placeholder="Enter Email">
+     </div>
+     <div class="form-group">
+       <label for="Password">Enter Password</label>
+       <input type="text" class="form-control" name="Password" formControlName="Password" id="Password" placeholder="Enter Password">
+     </div>
+    <div class="" formGroupName="address">
+        <div class="form-group">
+            <label for="street">Enter street</label>
+            <input type="text" class="form-control" formControlName="street" name="street" id="street" placeholder="Enter street">
+          </div>
+          <div class="form-group">
+            <label for="city">Enter city</label>
+            <input type="text" class="form-control" name="city" formControlName="city" id="city" placeholder="Enter city">
+          </div>
+          <div class="form-group">
+            <label for="pincode">Enter pincode</label>
+            <input type="text" class="form-control" name="pincode" formControlName="pincode" id="pincode" placeholder="Enter pincode">
+          </div>
+    </div>
+    <div formArrayName="contacts"
+        *ngFor="let cont of loginForm.get('contacts').controls; index as i" >
+        <div class="form-group">
+            <label for=""> contacts {{i+1}}</label>
+            <input type="text" class="form-control" name="contacts {{i+1}}" [formControlName]="i" id="contacts {{i+1}}" placeholder="Enter contacts">
+          </div>
+    </div>      
+    <div class="">
+      <button type="button" (click)="removeContact(i)" class="btn btn-outline-danger">X</button>
+    </div>
+    <div class="">
+      <button type="button" (click)="addContact()" class="btn btn-outline-primary">+</button>
+    </div>
+    
+     <div >
+         <button type="submit" class="btn btn-outline-primary">Login</button>
+     </div>
+    
+    </form>
+    
+    </div>
+    

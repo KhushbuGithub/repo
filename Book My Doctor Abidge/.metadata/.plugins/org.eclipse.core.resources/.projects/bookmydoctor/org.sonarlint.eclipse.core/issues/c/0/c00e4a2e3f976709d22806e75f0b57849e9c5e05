@@ -1,0 +1,29 @@
+
+ˆsquid:S14882"[Immediately return this expression instead of assigning it to the temporary variable "dto".(­ö«¢HñRMINORZ
+CODE_SMELL
+squid:S1488_"\Immediately return this expression instead of assigning it to the temporary variable "serv".(ÆıºŒıÿÿÿÿHòRMINORZ
+CODE_SMELL
+ˆsquid:S1488-"[Immediately return this expression instead of assigning it to the temporary variable "dto".(ÍìÔ”HóRMINORZ
+CODE_SMELL
+squid:S1488e"[Immediately return this expression instead of assigning it to the temporary variable "dto".(úÓ¼òùÿÿÿÿHôRMINORZ
+CODE_SMELL
+ˆsquid:S1488#"[Immediately return this expression instead of assigning it to the temporary variable "dao".(åãÀ‰HõRMINORZ
+CODE_SMELL
+ˆsquid:S14887"[Immediately return this expression instead of assigning it to the temporary variable "dto".(€ÈŠHöRMINORZ
+CODE_SMELL
+šsquid:S1488E"hImmediately return this expression instead of assigning it to the temporary variable "doctorDetailsDto".(Èšˆ½ıÿÿÿÿH÷RMINORZ
+CODE_SMELL
+squid:S1488O"aImmediately return this expression instead of assigning it to the temporary variable "doctorDao".(´‡°•HøRMINORZ
+CODE_SMELL
+squid:S1488<"[Immediately return this expression instead of assigning it to the temporary variable "dao".(İğÛşÿÿÿÿHùRMINORZ
+CODE_SMELL
+Ysquid:S1905O",Remove this unnecessary cast to "DoctorDao".(´‡°•HúRMINORZ
+CODE_SMELL
+squid:S1488Z"[Immediately return this expression instead of assigning it to the temporary variable "dao".(Û›˜•ûÿÿÿÿHûRMINORZ
+CODE_SMELL
+squid:S1488("\Immediately return this expression instead of assigning it to the temporary variable "dto1".(ê­†•ûÿÿÿÿHüRMINORZ
+CODE_SMELL
+‘squid:S1488U"eImmediately return this expression instead of assigning it to the temporary variable "doctorService".(Êœ‹[HıRMINORZ
+CODE_SMELL
+squid:S1488J"bImmediately return this expression instead of assigning it to the temporary variable "appointDto".(ù³¥šHşRMINORZ
+CODE_SMELL

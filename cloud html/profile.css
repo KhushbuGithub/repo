@@ -1,0 +1,23 @@
+body{
+    background-image: url('./art.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+img{
+    border-radius: 45%;
+}
+div{
+    margin: 75px auto;
+    background: wheat;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 75px;
+    border: 3px solid red;
+    border-left: 10px;
+    border-right: 10px;
+    border-top: 10px;
+    border-bottom: 10px;
+    width: 300px;
+}

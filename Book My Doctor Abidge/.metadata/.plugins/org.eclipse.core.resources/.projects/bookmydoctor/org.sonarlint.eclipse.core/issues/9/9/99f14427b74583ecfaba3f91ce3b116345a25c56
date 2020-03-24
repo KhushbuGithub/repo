@@ -1,0 +1,7 @@
+
+squid:UselessImportCheck"PRemove this unused import 'com.capgemini.bookmydoctor.exception.AdminException'.(©ş¯ÃÿÿÿÿÿH‡RMINORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHˆRMINORZ
+CODE_SMELL
+€squid:S1192"ODefine a constant instead of duplicating this literal "Enter doctorId" 3 times.(¡£åH‰RCRITICALZ
+CODE_SMELL

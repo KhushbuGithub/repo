@@ -1,0 +1,22 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(©Œƒİøÿÿÿÿ8Á”åÇø-H¯	RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘öğ8Á”åÇø-H°	RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(È÷÷íøÿÿÿÿ8Á”åÇø-H±	RMAJORZ
+CODE_SMELL
+qsquid:S2259	"?A "NullPointerException" could be thrown; "s" is nullable here.( ïßøÿÿÿÿ8í×ëÇø-H²	RMAJORZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š°‰Ø8Á”åÇø-H³	RMAJORZ
+CODE_SMELL
+nsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Á”åÇø-H´	RMAJORZ
+CODE_SMELL
+q
+squid:S106	"9Replace this use of System.out or System.err by a logger.( ïßøÿÿÿÿ8Á”åÇø-Hµ	RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÇé¬ÿÿÿÿÿ8Á”åÇø-H¶	RMAJORZ
+CODE_SMELL

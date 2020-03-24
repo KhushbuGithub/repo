@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+    http://www.springframework.org/schema/beans/spring-beans.xsd 
+    http://www.springframework.org/schema/context 
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    
+  <!--   <bean id ="book" class="com.capgemini.springcore.book.Book" autowire="byType"> -->
+    <bean id ="book" class="com.capgemini.springcore.book.Book" >
+   <!--  <property name="name" value="ABCD"></property> -->
+   <constructor-arg name="name" value="RAM"></constructor-arg>
+   <constructor-arg name="story" value="poet"></constructor-arg>
+  <!--   <property name="story" ref="poet"></property> -->
+        
+    
+    </bean>
+    <bean id="story" class="com.capgemini.springcore.book.Author">
+    <!-- <property name="name" value="Joe"></property>
+    <property name="penname" value="Cello"></property> -->
+    
+    
+    </bean>
+    
+    <bean id="poet" class="com.capgemini.springcore.book.Poet" primary="true">
+    </bean>
+    
+  
+    
+    
+    
+    </beans>

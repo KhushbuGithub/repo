@@ -1,0 +1,19 @@
+
+psquid:S2166"CRename this class to remove "Exception" or correct its inheritance.(ÔƒÜçH·	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÇé¬ÿÿÿÿÿH¸	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Ãç½ıÿÿÿÿH¹	RMAJORZ
+CODE_SMELL
+qsquid:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿHº	RCRITICALZBUG
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š°‰ØH»	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(È÷÷íøÿÿÿÿH¼	RMAJORZ
+CODE_SMELL
+e
+squid:S106	"9Replace this use of System.out or System.err by a logger.(İ¬–H½	RMAJORZ
+CODE_SMELL

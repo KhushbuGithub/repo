@@ -1,0 +1,36 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ§¯¯ùÿÿÿÿHÎ	RMAJORZ
+CODE_SMELL
+…squid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ó¶ú÷ÿÿÿÿÿHÏ	RMINORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³ø‰œùÿÿÿÿHĞ	RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿHÑ	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤€¿ÃıÿÿÿÿHÒ	RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô´ÍHÓ	RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(²‰ÎœHÔ	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸôŸÿÿÿÿÿHÕ	RMAJORZ
+CODE_SMELL
+squid:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ÂÈñHÖ	RMINORZ
+CODE_SMELL
+e
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ö™ÆH×	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷Ö©ÄúÿÿÿÿHØ	RMAJORZ
+CODE_SMELL
+ˆsquid:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(è˜æÈıÿÿÿÿHÙ	RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ–øùÿÿÿÿHÚ	RMAJORZ
+CODE_SMELL

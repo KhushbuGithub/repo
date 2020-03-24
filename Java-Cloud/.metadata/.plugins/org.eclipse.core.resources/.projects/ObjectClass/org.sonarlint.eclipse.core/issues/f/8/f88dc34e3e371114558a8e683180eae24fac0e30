@@ -1,0 +1,16 @@
+
+zsquid:UselessImportCheck"4Remove this unused import 'java.util.LinkedHashSet'.(à€¼úÿÿÿÿ8Û³º¡ø-HØRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8Û³º¡ø-HÚRMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨…Êµ8„«ø ø-HÓRMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãÀÇ”ÿÿÿÿÿ8Û³º¡ø-HÙRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8™¼Ä¡ø-HàRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Û³º¡ø-HÛRMAJORZ
+CODE_SMELL

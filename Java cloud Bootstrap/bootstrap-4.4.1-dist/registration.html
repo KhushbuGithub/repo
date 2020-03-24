@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="./bootstrap-4.4.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./registration.css">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-info">
+        <a class="navbar-brand" href="#">REGISTRATION FORM</a>
+        <button class="navbar-toggler" type="button" data-toggler="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        </nav>
+</body>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Registration</li>
+            </ol>
+        </nav>
+
+        <div class="col-md-5 offset-4 mt-4 card">
+            <div class="card-body">
+                <h1 class="h1 text-center">FORM</h1>
+                <form action="#" POST>
+                    <div class="form-group">
+                        <label for="fn">FirstName</label>
+                        <input type="text" name="FirstName" id="fn" minlength="3" maxlength="10" class="form-control">
+
+                        <label for="ln">LastName</label>
+                        <input type="text" name="LastName" id="ln" minlength="3" maxlength="10" class="form-control">
+
+                        <label for="ma">MailAddress 1</label>
+                        <input type="address" name="MailAddress" id="ma" minlength="3" maxlength="50" required class="form-control">
+
+                        <label for="ma">MailAddress 2</label>
+                        <input type="address" name="MailAddress" id="ma" minlength="3" maxlength="50" required class="form-control">
+
+                        <label for="ct">City</label>
+                        <input type="text " name="city" id="ct" minlength="3" maxlength="10" required class="form-control">
+
+                        <label for="zi">Zip</label>
+                        <input type="file" id="zi" required class="form-control">
+
+                        <label for="photo">UploadPhoto</label>
+                        <input type="file" id="photo" required class="form-control">
+                         
+                        <label for="email">Email</label>
+                        <input type="email" id="email" required class="from-control"> <br>
+
+                        <label for="mob">Mobile</label>
+                        <input type="text" id="mob" required class="form-control "placeholder="+91">
+
+                        <label for="lan">Language Known</label>
+                        <input type="checkbox" name="ln" value="English" class="form-control">English
+                        <input type="checkbox" name="ln" value="Hindi" class="form-control">Hindi
+                        <input type="checkbox" name="ln" value="Kanada" class="form-control">Kanada
+                        <input type="checkbox" name="ln" value="Telgu" class="form-control">Telgu
+                        <input type="checkbox" name="ln" value="French" class="form-control">French <br>
+
+                         <label for="ai">Additional Info</label>
+                         <textarea name="Additional Info" id="ai" cols="30" rows="10"></textarea> <br>
+                         
+                         <a class="navbar-brand text-center" href="./Eform.html">Home</a>
+                    </div>
+                </form>
+            </div>
+             
+
+        </div>
+       
+    
+    </body>
+    
+</body>
+</html>

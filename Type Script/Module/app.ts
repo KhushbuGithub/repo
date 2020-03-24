@@ -1,0 +1,1 @@
+export let fullname:string="john";

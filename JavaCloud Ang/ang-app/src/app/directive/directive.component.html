@@ -1,0 +1,28 @@
+<h3>Directives in angular</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit aspernatur corporis est?</p>
+<p *ngIf=isActive >Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo recusandae sed dignis</p>
+
+
+<div class="card">
+<div class="card-body" *ngFor="let product of product">
+
+        <h4>{{product.name}}</h4>
+        <img src="{{product.imgurl}}">
+        <h4>{{product.cost}}</h4>
+    </div>
+    
+</div>
+
+
+
+<div ngSwitch="2">
+    <h4 *ngSwitchCase="1">One</h4>
+    <h4 *ngSwitchCase="2">Two</h4>
+    <h4 *ngSwitchDefault> Unknown</h4>
+</div>
+
+
+
+<h1>This is attribute directive</h1>
+<h1 [ngClass]="{'bg-success':isActive,'text-white':isActive}">this is content  </h1>
+<h2 [ngStyle]="{backgroundColor:'red' ,'color':'aqua'}">Hello</h2>

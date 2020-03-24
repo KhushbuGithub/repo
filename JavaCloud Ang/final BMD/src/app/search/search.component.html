@@ -1,0 +1,74 @@
+<!-- <div class="container-fluid">
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>Doctor Image</th>
+                <th>Doctor Name</th>
+                <th>Email</th>
+                <th>Gender</th>
+                <th>Specialization</th>
+                <th>Language1</th>
+                <th>Office Address</th>
+                <th>City</th>
+                <th>Phone Number</th>
+                <th>Rating</th>
+                <th>Review</th>
+                <th>Appointment</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor='let doctor of doctors'>
+                <td><img [src]="doctor.doctorImage"></td>
+                <td>{{doctor.doctorName}}</td>
+                <td>{{doctor.email}}</td>
+                <td>{{doctor.gender}}</td>
+                <td>{{doctor.specialization}}</td>
+                <td>{{doctor.language1}}</td>
+                <td>{{doctor.officeAddress}}</td>
+                <td>{{doctor.city}}</td>
+                <td>{{doctor.phoneNumber}}</td>
+                <td>4</td>
+                <td>good</td>
+                <td><button type="submit" class="btn btn-info">Appointment</button></td>
+            </tr>
+        </tbody>
+    </table>
+</div> -->
+<div class="container margin">
+    <div class="row">
+        <div class="col-12 mt-3 d-flex justify-content-center">
+            <div class="card bg">
+                <div class="card-horizontal"  *ngFor='let doctor of doctors'>
+                        
+                    <div>
+                        <img [src]="doctor.doctorImage" width="50%" height="70%" class="image-fluid mt-4" alt="Responsive image">
+                    </div>
+                    
+                    <div class="card-body">
+                            <div class="display-4">
+                                    <ngb-rating [rate]= 'rating'></ngb-rating>
+                                </div>
+                        <h4 class="card-title">Dr. {{doctor.doctorName}} ({{doctor.gender}}) </h4>
+                        {{doctor.specialization}} <br>
+                        {{doctor.city}}
+                        <div>
+                            Email: {{doctor.email}} <br>
+                            Mobile: {{doctor.phoneNumber}}<br>
+                            Address: {{doctor.officeAddress}} <br>
+                            Friendly with local language and {{doctor.language1}}<br>
+                        </div>
+                        <div *ngIf='isPatient()' (click)='appointment(doctor)' class="btn btn-outline-info">
+                            book an appointment!
+                        </div>
+                        <div *ngIf='!isPatient()' (click)='loginFirst()' class="btn btn-outline-info">
+                                book an appointment!
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Last updated 3 mins ago</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
