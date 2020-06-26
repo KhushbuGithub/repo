@@ -1,0 +1,30 @@
+/* img{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border: navy;
+    color: white;
+} */
+thead{
+    background-color: transparent;
+}
+table{
+    margin-top: 100px;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+.margin{
+    margin-top: 10rem;
+}
+
+.mt-4{
+    margin-top: 3rem !important;
+}
+.bg{
+    background: url('https://wallpaperplay.com/walls/full/2/4/b/176845.jpg');
+    background-repeat: no-repeat;
+    background-size: contain !important;
+    background-size: cover;
+}

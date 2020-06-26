@@ -1,0 +1,37 @@
+
+<!-- Navbar-->
+<header class="header">
+    <nav class="navbar navbar-expand-lg fixed-top py-3 navbar-dark bg-light" style="font-family: 'BioRhyme', serif;">
+        
+        <div class="container"><a routerLink="/" class="navbar-brand text-uppercase font-weight-bold"> <div class="logo animated fadeInLeft">
+            <a routerLink="/"> <div> <img src="./book-my-doctor-kerala.png" alt=""> </div> </a>
+        </div> </a>
+        <div>
+        <div id="navbarSupportedContent" class="collapse navbar-collapse">
+                <ul class="navbar-nav ml-auto" *ngIf='!isLoggedIn()'>
+                    <li class="nav-item"> <a routerLink="registration" class="nav-link text-uppercase font-weight-bold"> <i class="fa fa-user-plus" aria-hidden="true"></i> Register</a> </li>
+                    <li class="nav-item"> <a routerLink="login" class="nav-link text-uppercase font-weight-bold"> <i class="fas fa-key"></i>Login</a> </li>
+                </ul>
+                <ul class="navbar-nav ml-auto" *ngIf='isLoggedIn()'>
+                        <li class="nav-item"> <button (click)='logout()' class="btn btn-outline-danger">Logout</button> </li>
+                    </ul>
+            </div>
+            <ul class="navbar-nav" *ngIf='isDoctor()'>
+                    <li class="nav-item"><a routerLink="doctor" class="nav-link text-uppercase font-weight-bold">My Profile</a> </li>
+                </ul>
+                <ul class="navbar-nav" *ngIf='isPatient()'>
+                        <li class="nav-item"><a routerLink="add-patient" class="nav-link text-uppercase font-weight-bold">Update Details</a> </li>
+                        <li class="nav-item"><a routerLink="patient" class="nav-link text-uppercase font-weight-bold">My Profile</a> </li>
+                        <li class="nav-item"><a routerLink="add-appointment" class="nav-link text-uppercase font-weight-bold">Add Appointment</a> </li>
+                    </ul>
+            <div id="navbarSupportedContent" class="collapse navbar-collapse">
+                <ul class="navbar-nav ml-auto" *ngIf='isPatient() || isDoctor() || !isAdmin()'>
+                    <li class="nav-item active text-success"><a routerLink="" class="nav-link text-uppercase font-weight-bold"> <i class="fa fa-home" aria-hidden="true"></i>Home<span class="sr-only">(current)</span></a></li>
+                    <li class="nav-item"><a routerLink="about" class="nav-link text-uppercase font-weight-bold"> <i class="fa fa-user" aria-hidden="true"></i> About</a></li>
+                    <li class="nav-item"><a routerLink="footer" class="nav-link text-uppercase font-weight-bold"> <i class="fas fa-user" aria-hidden="true"></i> Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        </div>
+    </nav>
+</header>

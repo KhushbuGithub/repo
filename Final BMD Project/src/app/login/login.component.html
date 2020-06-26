@@ -1,0 +1,62 @@
+<div class="limiter">
+    <div class="container-login100"
+        style="background-image: url('');">
+        <div class="wrap-login100">
+            <div class="alert alert-success" *ngIf='message'>{{message}}</div>
+            <div class="alert alert-danger" *ngIf='error'>{{error}}</div>
+            <form class="login100-form validate-form" #userLogin='ngForm' (ngSubmit)='login(userLogin)'>
+                <span class="login100-form-logo">
+                    <i class="fa fa-users" aria-hidden="true"></i>
+                </span>
+
+                <span class="login100-form-title p-b-34 p-t-27">
+                    Log in
+                </span>
+                <div class="wrap-input100">
+                    <input class="input100" type="email" name="email" #email='ngModel' ngModel placeholder="Email"
+                        pattern="^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}">
+                    <span data-placeholder="&#xf207;"></span>
+                    <div *ngIf='email.touched && email.invalid'>
+                        <div class="alert alert-danger" *ngIf='email.errors.required'>
+                            This field is mandatory
+                        </div>
+                        <div class="alert alert-danger" *ngIf='email.errors.pattern'>
+                            Enter correct email format ex : abc@cc.in
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="wrap-input100 validate-input" data-validate="Enter password">
+                    <input class="input100" type="password" name="password" #password='ngModel' ngModel
+                        placeholder="Password" minlength="8" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}">
+                    <span data-placeholder="&#xf191;"></span>
+                    <div *ngIf='password.touched && password.invalid'>
+                        <div class="alert alert-danger" *ngIf='password.errors.required'>
+                            *Field is Mandatory
+                        </div>
+                        <div class="alert alert-danger" *ngIf='password.errors.minlength'>
+                            *minimum 8 characters required
+                        </div>
+                        <div class="alert alert-danger" *ngIf='password.errors.pattern'>
+                            *Password should contains atleast one uppercase,
+                            one lowercase,one digit, and one special character
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container-login100-form-btn">
+                    <button type="submit" class="login100-form-btn">
+                        Login
+                    </button>
+                </div>
+
+                <div class="text-center p-t-90">
+                    <a class="txt1" href="#">
+                        Forgot Password?
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

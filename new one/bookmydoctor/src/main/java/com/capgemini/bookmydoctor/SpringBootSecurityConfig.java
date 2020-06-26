@@ -8,7 +8,6 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.core.userdetails.UserDetailsService;
-import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.authentication.AuthenticationFailureHandler;
 import org.springframework.security.web.authentication.AuthenticationSuccessHandler;
 import org.springframework.security.web.authentication.SimpleUrlAuthenticationFailureHandler;
@@ -21,8 +20,6 @@ import com.capgemini.bookmydoctor.handler.MyLogoutSuccessHandler;
 public class SpringBootSecurityConfig extends WebSecurityConfigurerAdapter {
 	@Autowired
 	private UserDetailsService userDetailsService;
-	@Autowired
-	private PasswordEncoder passwordEncoder;
 	@Autowired
 	private BootAuthenticationEntryPoint authenticationEntryPoint;
 	@Autowired
@@ -60,7 +57,7 @@ public class SpringBootSecurityConfig extends WebSecurityConfigurerAdapter {
 		.antMatchers("/register-user").permitAll()
 		.and()
 		.authorizeRequests()
-		.antMatchers("/auth").permitAll()
+		.antMatchers("/login").permitAll()
 		.and()
 		.authorizeRequests()
 		.antMatchers("/view-allusers").permitAll()

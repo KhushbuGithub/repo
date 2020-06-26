@@ -1,0 +1,33 @@
+.jumbotron{
+    width: 100%;
+    height: 450px;
+    background-color:rgba(0,0,0,0.1) !important;
+}
+
+.base{
+    /* background-image: url("https://media.giphy.com/media/S3azrhWupBm61PszDr/giphy.gif"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: hard-light;
+    height:-webkit-fill-available !important;
+    
+}
+#image{
+    border-radius: 90%;
+}
+.card{
+    text-align: center;
+    background-color:rgba(0,0,0,0) !important;
+    border: none;
+   
+}
+.cards{
+    background-color:gainsboro;
+   
+}
+.card1{
+    margin-top: 90px;
+}
+img {
+    border-radius: 5%;
+}

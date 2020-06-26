@@ -1,0 +1,135 @@
+<div class="container">
+    <div class="alert alert-success mt-4" *ngIf='message'>{{message}}</div>
+    <div class="alert alert-danger mt-4" *ngIf='error'>{{error}}</div>
+    <div class="d-flex mt">
+        <div class="container">
+            <div class="card" *ngIf='form2'>
+                <img src="https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331579_960_720.png" width="30%"
+                    height="30%" alt="" class="float-right">
+                <div class="align-content-right">
+                    <h3 class="float-right"> I'm Patient</h3>
+                    <h4 class="float-right blockquote-footer">Find a doctor and book an appointment online for free!
+                    </h4>
+
+                </div>
+                <div class="float-right"><button class="btn btn-outline-success" (click)='register()'>Join Now!</button>
+                </div>
+            </div>
+            <div class="card margin" *ngIf='form1'>
+                <form #userRegistration='ngForm' (ngSubmit)='addUser(userRegistration)'>
+                    <div class=" container form-group mt-2 ">
+                        <label for="name">Full Name</label>
+                        <input type="text" id="name" name="name" class="form-control my-select" #name='ngModel' ngModel
+                            placeholder="Full Name" pattern="^[a-zA-Z]+(?: [a-zA-z]+)*$" required>
+                        <div *ngIf='name.touched && name.invalid'>
+                            <div class="alert alert-danger" *ngIf='name.errors.required'>
+                                *Field is Mandatory
+                            </div>
+                            <div class="alert alert-danger" *ngIf='name.errors.pattern'>
+                                *Only alphabets are allowed
+                            </div>
+                        </div>
+                    </div>
+                    <div class=" container form-group mt-2 ">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" class="form-control my-select" #email='ngModel'
+                            ngModel placeholder="Email" pattern="^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}" required>
+                        <div *ngIf='email.touched && email.invalid'>
+                            <div class="alert alert-danger" *ngIf='email.errors.required'>
+                                This field is mandatory
+                            </div>
+                            <div class="alert alert-danger" *ngIf='email.errors.pattern'>
+                                Enter correct email format ex : abc@cc.in
+                            </div>
+                        </div>
+                    </div>
+                    <div class=" container form-group mt-2 ">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" class="form-control my-select"
+                            #password='ngModel' ngModel placeholder="Password"
+                            pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required>
+                        <div *ngIf='password.touched && password.invalid'>
+                            <div class="alert alert-danger" *ngIf='password.errors.required'>
+                                *Field is Mandatory
+                            </div>
+                            <div class="alert alert-danger" *ngIf='password.errors.minlength'>
+                                *minimum 8 characters required
+                            </div>
+                            <div class="alert alert-danger" *ngIf='password.errors.pattern'>
+                                *Password should contains atleast one uppercase,
+                                one lowercase,one digit, and one special character
+                            </div>
+                        </div>
+                    </div>
+                    <input type="hidden" name="userType" #userType='ngModel' [(ngModel)]='this.userName'>
+                    <button type="submit" class="btn btn-lg btn-block btn-info">Register As Patient!</button>
+                    <button type="submit" class="btn btn-lg btn-block btn-primary" (click)='back1()'>go back</button>
+                </form>
+            </div>
+        </div>
+        <div class="container" *ngIf='form3'>
+            <div class="card">
+                <img src="https://image.flaticon.com/icons/png/512/1988/premium/1988844.png" width="30%" height="30%"
+                    class="img-responsive" alt="">
+                <div>
+                    <h3>I'm a Doctor</h3>
+                    <h4 class="blockquote-footer">Quicker way for your patient to schedule an appointment. online for
+                        free!</h4>
+                </div>
+                <div><button class="btn btn-outline-success mt-1" (click)='register2()'>Join Now!</button> </div>
+            </div>
+
+        </div>
+        <div class="card margin" *ngIf='form4'>
+            <form #userRegistration='ngForm' (ngSubmit)='addUser(userRegistration)'>
+                <div class=" container form-group mt-2 ">
+                    <label for="name">Full Name</label>
+                    <input type="text" id="name" name="name" class="form-control my-select" #name='ngModel' ngModel
+                        placeholder="Full Name" pattern="^[a-zA-Z]+(?: [a-zA-z]+)*$" required>
+                    <div *ngIf='name.touched && name.invalid'>
+                        <div class="alert alert-danger" *ngIf='name.errors.required'>
+                            *Field is Mandatory
+                        </div>
+                        <div class="alert alert-danger" *ngIf='name.errors.pattern'>
+                            *Only alphabets are allowed
+                        </div>
+                    </div>
+                </div>
+                <div class=" container form-group mt-2 ">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" class="form-control my-select" #email='ngModel' ngModel
+                        placeholder="Email" pattern="^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}" required>
+                    <div *ngIf='email.touched && email.invalid'>
+                        <div class="alert alert-danger" *ngIf='email.errors.required'>
+                            This field is mandatory
+                        </div>
+                        <div class="alert alert-danger" *ngIf='email.errors.pattern'>
+                            Enter correct email format ex : abc@cc.in
+                        </div>
+                    </div>
+                </div>
+                <div class=" container form-group mt-2 ">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" class="form-control my-select"
+                        #password='ngModel' ngModel placeholder="Password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+                        required>
+                    <div *ngIf='password.touched && password.invalid'>
+                        <div class="alert alert-danger" *ngIf='password.errors.required'>
+                            *Field is Mandatory
+                        </div>
+                        <div class="alert alert-danger" *ngIf='password.errors.minlength'>
+                            *minimum 8 characters required
+                        </div>
+                        <div class="alert alert-danger" *ngIf='password.errors.pattern'>
+                            *Password should contains atleast one uppercase,
+                            one lowercase,one digit, and one special character
+                        </div>
+                    </div>
+                </div>
+                <input type="hidden" name="userType" #userType='ngModel' [(ngModel)]='this.userName2'>
+                <button type="submit" class="btn btn-lg btn-block btn-info">Register As Doctor!</button>
+                <button type="submit" class="btn btn-lg btn-block btn-primary" (click)='back2()'>go back</button>
+            </form>
+        </div>
+    </div>
+</div>

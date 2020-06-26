@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    padding-top: 180px;
+}
+.patient{
+     background-image: url("https://images.unsplash.com/photo-1508796079212-a4b83cbf734d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80") ; 
+    background-repeat:no-repeat;
+    background-size: cover;
+    color: white;
+    height:1000px;
+    padding-top: 2px;
+}
+.card{
+    width:500px;
+    background-color: rgba(0,0,0,0.2);
+    border: none;
+    height: 550px;
+    padding-top: 10px;
+}

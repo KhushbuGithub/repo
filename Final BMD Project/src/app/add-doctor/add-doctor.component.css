@@ -1,0 +1,31 @@
+.card-body{
+    width: 100% !important;
+}
+.container-fluid{
+    height: 100%;
+}
+.h-100{
+    height: -webkit-fill-available !important;
+}
+.doctorImage , .email{
+    margin-top: 5rem !important;
+}
+/* form{
+    background-image: url("https://media.giphy.com/media/xUn3CnQtoOqgSKun1S/giphy.gif");
+} */
+h1{
+    padding-top: 50px;
+    text-align: center;
+    font-style: italic;
+}
+.card1{
+    background-color:steelblue;
+    color: white;
+}
+.card2{
+    background-color:whitesmoke;
+    color: black;
+}
+button{
+    background-color: steelblue;
+}

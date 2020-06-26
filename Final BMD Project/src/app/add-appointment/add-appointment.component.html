@@ -1,0 +1,103 @@
+<div class="alert alert-success" *ngIf='success'>{{success}}</div>
+<div class="alert alert-danger" *ngIf='failure'>{{failure}}</div>
+<div class="patient">
+    <div class="col-md-5 offset-md-4 mt-4 patient">
+        <h1> Add Appointment</h1>
+        <div class="container-fluid">
+            <div class="d-flex h-100">
+                <div class="card">
+                    <div class="card-body">
+                        <form #addedAppointment='ngForm' (ngSubmit)='addAppointment(addedAppointment)'>
+                            <div class="form-group ">
+                                <input type="hidden" name="appiontmentId" id="appiontmentId" #appiontmentId='ngModel'
+                                    ngModel class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label for="patientName">Patient Name</label>
+                                <input type="text" name="patientName" id="patientName" #patientName='ngModel'
+                                    [(ngModel)]='this.appointment.patientsName' class="form-control" readonly
+                                    pattern="^[a-zA-Z]+(?: [a-zA-z]+)*$" required>
+                                <div *ngIf='doctorName.touched && doctorName.invalid'>
+                                    <div class="alert alert-danger" *ngIf='doctorName.errors.required'>
+                                        *Field is Mandatory
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='doctorName.errors.pattern'>
+                                        *Only alphabets are allowed
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group ">
+                                <label for="patientId">Patient Id</label>
+                                <input type="text" name="patientId" id="patientId" #patientId='ngModel'
+                                    [(ngModel)]='this.appointment.patientsId' class="form-control" required
+                                    placeholder="Enter patientId" readonly>
+                            </div>
+                            <div class="form-group ">
+                                <label for="age">Patient Age</label>
+                                <input type="text" name="age" id="age" #age='ngModel' ngModel class="form-control"
+                                    required placeholder="Enter Patient Age">
+                                <div *ngIf='age.touched && age.invalid'>
+                                    <div class="alert alert-danger" *ngIf='age.errors.required'>
+                                        This field is mandatory
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div>
+                                    <label for="diseaseSymptoms">Disease Symptoms</label>
+                                    <input type="diseaseSymptoms" name="diseaseSymptoms" id="diseaseSymptoms"
+                                        #diseaseSymptoms='ngModel' ngModel class="form-control" required
+                                        placeholder="Enter disease Symptoms">
+                                </div>
+                                <div *ngIf='diseaseSymptoms.touched && diseaseSymptoms.invalid'>
+                                    <div class="alert alert-danger" *ngIf='diseaseSymptoms.errors.required'>
+                                        This field is mandatory
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" name="approval" id="approval" #approval='ngModel'
+                                    [(ngModel)]='this.pending' class="form-control" required hidden>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" name="doctorName" id="doctorName" #doctorName='ngModel'
+                                    [(ngModel)]='this.appointment.valueOfDoctorDetais.doctorName' class="form-control"
+                                    hidden pattern="^[a-zA-Z]+(?: [a-zA-z]+)*$" required>
+                                <div *ngIf='doctorName.touched && doctorName.invalid'>
+                                    <div class="alert alert-danger" *ngIf='doctorName.errors.required'>
+                                        *Field is Mandatory
+                                    </div>
+                                    <div class="alert alert-danger" *ngIf='doctorName.errors.pattern'>
+                                        *Only alphabets are allowed
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="appointmentDate">Choose an appointment date</label>
+                                <input type="date" name="appointmentDate" id="appointmentDate"
+                                    #appointmentDate='ngModel' ngModel class="form-control" required min="{{today | date: 'yyyy-MM-dd'}}">
+                            </div>
+                            <div class="form-group">
+                                <label for="timeSlot">Time Slot</label>
+                                <select name="timeSlot" id="timeSlot" #timeSlot='ngModel' ngModel class="form-control"
+                                    required>
+                                    <option value="8am-10am">8am-10am</option>
+                                    <option value="2pm-6pm">2pm-6pm</option>
+                                </select>
+                            </div>
+                            <div class="float-left">
+                                <button type="reset" class="btn btn-info ">
+                                    Reset
+                                </button>
+                            </div>
+                            <div class="float-right">
+                                <button type="submit" class="btn btn-info float-right ">
+                                    Add 
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>

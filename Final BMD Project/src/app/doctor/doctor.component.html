@@ -1,0 +1,92 @@
+<div class="base">
+    <div class="container-fluid">
+        <div class="d-flex justify-content-around">
+            <div class="col-md-5 float-right">
+                <br><br><br><br><br>
+                <div class="card">
+                    <div class="card-body">
+                        <img id="image"
+                            src="https://cdn.pixabay.com/photo/2016/09/30/23/47/hospital-1706646__340.png"
+                            width="300px" height="320px">
+                        <div *ngFor ='let doctor of doctors'>
+                            <h1>{{doctor.doctorName}}</h1>
+                            <h4>{{doctor.specialization}}</h4>
+                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5 float-right card1">
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="https://cdn.pixabay.com/photo/2014/12/10/20/56/medical-563427__340.jpg"
+                                width="600px" height="370px" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://cdn.pixabay.com/photo/2015/02/26/15/40/doctor-650534__340.jpg"
+                                width="600px" height="370px" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://cdn.pixabay.com/photo/2019/12/06/13/40/anesthesia-4677401__340.jpg"
+                                width="600px" height="370px" alt="...">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="btn-group float-right">
+        <button class="btn btn-lg btn-primary" (click)='details()'>
+            Update
+        </button>
+        &nbsp;&nbsp;
+        <button type="submit" class="btn btn-lg btn-dark" (click)='appointment()'>
+            Appointment Details
+        </button>
+    </div>
+    <br><br><br>
+
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container-fluid">
+
+            <div class="col-md-5 float-left">
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner pic">
+                        <div class="carousel-item active">
+                            <img src="https://media.images.yourquote.in/post/large/0/0/4/95/4vpx2258.jpg" alt="..."
+                                width="600px" height="350px">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://www.coolnsmart.com/images/cns/coolnsmart-7393.jpg" width="600px"
+                                height="350px" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://forum.facmedicine.com/data/MetaMirrorCache/f2e33907c73c8031b9ba15136a8d7379.png"
+                                width="600px" height="350px" alt="...">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-7 float-right">
+                <div class="cards" *ngFor='let ratings of doctorsName'>
+                    <div class="card">
+                        <br><br>
+                        <div class="card-body">
+                            <div class="card">
+                                <h2>Patient Name: {{ratings.patientName}}</h2>
+                                <h2>Rating: {{ratings.rating}}</h2>
+                            </div>
+                            <div class="card">
+                                <h2>Review: {{ratings.review}}</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+</div>

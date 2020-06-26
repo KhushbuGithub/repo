@@ -1,0 +1,42 @@
+<!-- This is a reverse engineering of the "Hyperspace"
+     design from HTML5 Up! https://html5up.net/hyperspace -->
+<div class="container-fluid">
+  <div class="d-flex m-100 align-items-start">
+  <div class="col-md-3">
+    <main class="main">
+      <aside class="sidebar">
+        <nav class="nav">
+          <img src="https://image.shutterstock.com/image-photo/smiling-doctor-posing-arms-crossed-260nw-519507367.jpg" width="30%"
+            height="70%"  class="image-fluid mt-0">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <h5 class="text-light">admin</h5>
+          <h6 class="fa fa-circle">online</h6>
+         <!--  <span class="user-status"><i class="fa fa-circle"></i><span>Online</span></span> -->
+                
+
+          <ul>
+            <li>
+              <a routerLink="doctordetails">Doctor</a>
+            </li>
+            <li>
+              <a routerLink="patientdetails">Patient</a>
+            </li>
+            <li>
+              <a routerLink="appointmentdetails">Appointment</a>
+            </li>
+            <!-- <li>
+                <a routerLink="ratingdetails">Rating</a>
+              </li>
+             -->
+          </ul>
+
+        </nav>
+
+      </aside>
+    </main>
+  </div>
+  <div class="col-md-9 book">
+    <router-outlet></router-outlet>
+  </div>
+</div>
+</div>

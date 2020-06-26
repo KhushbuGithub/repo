@@ -11,7 +11,6 @@ public class PreparedInsert {
 		
 		Connection con=null;
 		PreparedStatement pre= null;
-		
 		try {
 			Class.forName("com.mysql.jdbc.Driver").newInstance();
 			
@@ -28,9 +27,6 @@ public class PreparedInsert {
 			
 			int count =pre.executeUpdate();
 			System.out.println("number of rows affected--"+" "+count);
-			
-			
-			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}finally {
@@ -42,7 +38,5 @@ public class PreparedInsert {
 				e.getMessage();
 			}
 		}
-
 	}
-
 }

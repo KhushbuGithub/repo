@@ -17,8 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.capgemini.bookmydoctor.dto.Doctor;
 import com.capgemini.bookmydoctor.dto.DoctorResponse;
-import com.capgemini.bookmydoctor.dto.Patient;
-import com.capgemini.bookmydoctor.dto.PatientResponse;
 import com.capgemini.bookmydoctor.service.DoctorService;
 
 @RestController

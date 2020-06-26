@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    padding-top: 30px;
+    background-color:darkgray;
+}
+.patient{
+    /* background-image: url("https://cdn.pixabay.com/photo/2020/01/25/02/56/space-4791662_960_720.jpg") ; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height:1000px;
+    padding-top: 2px;
+}
+.card{
+    width:500px;
+    background-color: rgba(70, 13, 228, 0.425);
+    border: none;
+    height: 650px;
+    padding-top: 10px;
+}

@@ -29,8 +29,8 @@ public class AppiontmentBookingServiceImpl implements AppiontmentBookingService 
 				if(Validation.isAge(appiontment.getAge())) {
 					if(Validation.isName(appiontment.getDiseaseSymptoms())) {
 						if(Validation.isName(appiontment.getApproval())) {
-							if(Validation.isId(appiontment.getPatientId())) {
-								if(patientDao.serarchPatient(appiontment.getPatientId()) == null) {
+							if(Validation.isId(appiontment.getPatient().getUserId())) {
+								if(patientDao.serarchPatient(appiontment.getPatient().getUserId()) == null) {
 									throw new PatientException("Id  does not found");
 								}else {
 									return dao.addAppiontment(appiontment);
@@ -80,7 +80,7 @@ public class AppiontmentBookingServiceImpl implements AppiontmentBookingService 
 				if(Validation.isAge(bean.getAge())) {
 					if(Validation.isName(bean.getDiseaseSymptoms())) {
 						if(Validation.isName(bean.getApproval())) {
-							if(Validation.isId(bean.getPatientId())) {
+							if(Validation.isId(bean.getPatient().getUserId())) {
 							        return dao.modifyAppiontment(bean);
 					          }else {
 					        	  throw new AppiontmentBookingException("PatientId must contain the numbers from 0-9 and minimum length of 1");

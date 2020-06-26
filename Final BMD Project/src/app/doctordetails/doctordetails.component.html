@@ -1,0 +1,47 @@
+<div class="alert alert-success" *ngIf='success'>{{success}}</div>
+<div class="alert alert-failure" *ngIf='failure'>{{failure}}</div>
+<div class="container mt-3">
+        <table class="table table-hover table-dark">
+                <thead>
+                  <tr>
+                    <th >Doctor Image</th>
+                    <th >Doctor Name</th>
+                    <th >Gender</th>
+                    <th >Email</th>
+                    <th >Languages</th>
+                    <th >Home Address</th>
+                    <th >Office Address</th>
+                    <th >Phone Number</th>
+                    <!-- <th >About Doctor</th> -->
+                    <th >Specialization</th>
+                     <!-- <th >City</th> -->
+                    <th >Action</th>
+                </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor='let doctor of doctors'>
+                    
+                      
+                      <td><img [src]="doctor.doctorImage" width="30%" height="70%" class="image-fluid mt-0" alt="Responsive image"></td>
+                    <td>{{doctor.doctorName}}</td>
+                    <td>{{doctor.gender}}</td>
+                    <td>{{doctor.email}}</td>
+                    <td>{{doctor.language1}}, {{doctor.language2}}</td>
+                    <td>{{doctor.homeAddress}}</td>
+                    <td>{{doctor.officeAddress}}</td>
+                    <td>{{doctor.phoneNumber}}</td>
+                    <!-- <td>{{doctor.aboutDoctor}}</td> -->
+                    <td>{{doctor.specialization}}</td>
+                     <!-- <td>{{doctor.city}}</td> -->
+                    
+
+                    <!-- <td><button class="btn btn-outline-primary" (click) = 'viewDoctor(doctor)'>View</button></td> -->
+                    <td><button class="btn btn-outline-danger"(click) = 'deleteDoctor(doctor)'>Delete</button></td>
+                  </tr>
+                  
+                </tbody>
+              </table>
+</div>
+        
+      
+

@@ -23,19 +23,19 @@ class DoctorDAOTest {
 	@BeforeEach
 	void addDoctor() {
 		bean = new Doctor();
-		bean.setDoctorName("Nusrat");
+		bean.setDoctorName("Khushbu");
 		bean.setGender("Female");
-		bean.setEmail("nusrat@gmail.com");
+		bean.setEmail("khushbu@gmail.com");
 		bean.setAge(25);
-		bean.setSpecialization("general");
+		bean.setSpecialization("Dentist");
 		bean.setLanguage1("English");
 		bean.setLanguage2("Hindi");
-		bean.setHomeAddress("Mudhol-Navnagar");
-		bean.setOfficeAddress("Bangalore-Jayanagar");
-		bean.setCity("Mangalore");
+		bean.setHomeAddress("BTM Layout");
+		bean.setOfficeAddress("White-Field");
+		bean.setCity("Bangalore");
 		bean.setPhoneNumber(8874152963l);
 		bean.setDoctorImage("dfghj");
-		bean.setPassword("Qwerty@123");
+		//bean.setPassword("Qwerty@123");
 		addDoctor = dao.addDoctor(bean);
 	}
 	
@@ -72,9 +72,9 @@ class DoctorDAOTest {
 		bean.getUserId();
 		
 		assertTrue(dao.modifyDoctor(bean));
-		bean.setDoctorName("Sangu");
+		bean.setDoctorName("Sai");
 		bean.setGender("Female");
-		bean.setEmail("sangu@gmail.com");
+		bean.setEmail("sai@gmail.com");
 		bean.setAge(22);
 		bean.setSpecialization("general");
 		bean.setLanguage1("English");
@@ -84,7 +84,7 @@ class DoctorDAOTest {
 		bean.setCity("Mangalore");
 		bean.setPhoneNumber(8874152963l);
 		bean.setDoctorImage("dfghj");
-		bean.setPassword("Qwerty@123");
+	//	bean.setPassword("Qwerty@123");
 		
 		
 	}
